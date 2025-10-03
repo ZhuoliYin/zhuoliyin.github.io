@@ -27,6 +27,13 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+# 💻 Internships
+- *06/2025 - 09/2025*, **Amazon.com, Applied Scientist Intern, New York, NY.**
+  - Global Transportation Services, hosted by [Dr. Golnush Amoli](https://www.linkedin.com/in/golnush-masghati-amoli-30606592/) & [Hana Ku](https://www.linkedin.com/in/kuhana/)
+  - Developed Amazon's next-generation AI-driven tools to advance resilient and dynamic transportation network design.
+  - Led the full lifecycle from conceptualization, multi-source data analysis, large-scale simulation, AI model training, and minimum viable product delivery.
+  - In preparation for publication in an internal conference and repository
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -55,5 +62,3 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
