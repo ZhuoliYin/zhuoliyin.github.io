@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhuoli's Homepage"
-description              : "PhD Candidate @ Purdue IE "
+description              : "Ph.D. Candidate @ Purdue IE "
 repository               : "ZhuoliYin/zhuoliyin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhuoli Yin"
-  avatar           : "images/headshot_Zhuoli_2025.PNG"
+  avatar           : "images/headshot_Zhuoli_2025.jpg"
   bio              : "Purdue University"
   location         : "West Lafayette, IN, USA"
   employer         :
