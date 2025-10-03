@@ -21,7 +21,7 @@ I am a fifth-year Ph.D. Candidate in [Industrial Engineering](https://engineerin
 
 Previously, I earned my MS (2021) in Industrial Engineering from Purdue University advised by Prof. Hua Cai; and I obtained my BE (2019) in Electronic and Information Engineering from Beihang University advised by [Prof. Xiaoqian Sun and Prof. Sebastian Wandelt](https://www.m3nets.de/). I also worked with [Dr. Massimiliano Zanin](https://scholar.google.com/citations?user=NrcrF-cAAAAJ&hl=es&inst=5549692440350501774) as an undergraduate researcher at Polytechnic University of Madrid from 02/2019 to 05/2019.
 
-My research interest focuses on fusing AI/ML and operations research (OR) to tackle planning and operational challenges and to advance sustainability in urban mobility and logistics systems. During my PhD study, I have gained full-lifecycle experience in  AI/ML system design and deployment, spanning shared mobility rebalancing, resilient network design, automatic life-cycle assessment, and intelligent tutoring systems.
+My research interest focuses on fusing AI/ML and operations research (OR) to tackle planning and operational challenges and to advance sustainability in urban mobility and logistics systems. During my PhD study, I have gained full-lifecycle experience in both **Generative AI** and **Machine Learning** system design and deployment, spanning shared mobility rebalancing, resilient network design, automatic life-cycle assessment, and intelligent tutoring systems.
 
 
 # 🔥 News
