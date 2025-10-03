@@ -1,11 +1,11 @@
-
 ---
-permalink: /
+layout: page
+permalink: /new/
 title: "new"
-excerpt: ""
 author_profile: false
 ---
-### Welcome to my homepage! 👋
+
+# Welcome to my homepage! 👋
 
 I am a fifth-year Ph.D. Candidate in [Industrial Engineering](https://engineering.purdue.edu/IE) at Purdue University, working with [Prof. Hua Cai](https://engineering.purdue.edu/uSMART) in the uSMART group. My advisory committee includes [Prof. Stephan Biller](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=273149), [Prof. Young-Jun Son](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=270111), [Prof. Reem Khir](https://sites.google.com/view/reemkhir), and [Prof. Yi Ding](https://y-ding.github.io/).
 
