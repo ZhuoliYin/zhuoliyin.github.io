@@ -29,7 +29,7 @@ My research interest focuses on fusing AI/ML and operations research (OR) to tac
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💻 Internships
-- *06/2025 - 09/2025*, **Amazon.com <img src="icon.png" alt="icon" width="20"/>, Applied Scientist Intern, New York, NY.**
+- *06/2025 - 09/2025*, **Amazon.com, Applied Scientist Intern, New York, NY.**
   - Global Transportation Services, hosted by [Dr. Golnush Amoli](https://www.linkedin.com/in/golnush-masghati-amoli-30606592/) & [Hana Ku](https://www.linkedin.com/in/kuhana/)
   - Developed Amazon's next-generation AI-driven tools to advance resilient and dynamic transportation network design.
   - Led the full lifecycle from conceptualization, multi-source data analysis, large-scale simulation, AI model training, and minimum viable product delivery.
