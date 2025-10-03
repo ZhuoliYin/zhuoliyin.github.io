@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+### Welcome to my homepage! 👋
 
 I am a fifth-year Ph.D. Candidate in [Industrial Engineering](https://engineering.purdue.edu/IE) at Purdue University, working with [Prof. Hua Cai](https://engineering.purdue.edu/uSMART) in the uSMART group. My advisory committee includes [Prof. Stephan Biller](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=273149), [Prof. Young-Jun Son](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=270111), [Prof. Reem Khir](https://sites.google.com/view/reemkhir), and [Prof. Yi Ding](https://y-ding.github.io/).
 
@@ -25,9 +26,16 @@ My research interest focuses on fusing AI/ML and operations research (OR) to tac
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *08/2025*: Our paper ["Enhanced global oil spill dataset from 1967 to 2023 based on text-form incident information"](https://www.nature.com/articles/s41597-025-05601-9) has been published online in *Scientific Data*.
+- *06/2025*: I joined Amazon as an applied scientist intern in NYC🗽.
+- *05/2025*: I will attend IISE annual conference 2025 and present three works.
+- *04/2025*: I received an $800 Graduate Research Grant from Purdue’s Institute for a Sustainable Future (ISF) to support my research on assessing AI models' carbon footprint.
+- *10/2024*: I am honored to have been selected as a 2024–2025 IISE Future Faculty Fellow. I am fortunate to be paired with [Prof. Uday Venkatadri](https://www.dal.ca/faculty/engineering/industrial/faculty-staff/our-faculty1/professors/uday-venkatadri.html) as my mentor! 
+- *08/2024*: I attend [NSF Workshop on Sustainable Computng](https://nsf-desc-2024.github.io/) held at Purdue on Aug 20-21
+- *10/2023*: I received 2023-2024 Lee A. Chaden Fellowship in Industrial Engineering at Purdue.
+- *09/2023*: Purdue Today featured our story on [Arthur](https://www.purdue.edu/studentsuccess/news/09_07_23.html), an AI-powered teaching assistant tool designed to support engineering education.
+- *08/2023*: I will be lecturing IE343 Engineering Economics with ~150 undergraduate students. Looking forward to the new semester!
+  
 # 💻 Internships
 - *06/2025 - 09/2025*, **Amazon.com, Applied Scientist Intern, New York, NY.**
   - Global Transportation Services, hosted by [Dr. Golnush Amoli](https://www.linkedin.com/in/golnush-masghati-amoli-30606592/) & [Hana Ku](https://www.linkedin.com/in/kuhana/)
@@ -62,9 +70,6 @@ My research interest focuses on fusing AI/ML and operations research (OR) to tac
 - **Teaching Assistant**, *Purdue IE 590/EEE 595: Urban Mobility Optimization*, Spring 2024
 # Services
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
