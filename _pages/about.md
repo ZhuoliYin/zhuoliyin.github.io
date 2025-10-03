@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fifth-year Ph.D. Candidate in [Industrial Engineering](https://engineering.purdue.edu/IE) at Purdue University, working with [Prof. Hua Cai](https://engineering.purdue.edu/uSMART) in the uSMART group.
+I am a fifth-year Ph.D. Candidate in [Industrial Engineering](https://engineering.purdue.edu/IE) at Purdue University, working with [Prof. Hua Cai](https://engineering.purdue.edu/uSMART) in the uSMART group. My advisory committee includes [Prof. Stephan Biller](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=273149), [Prof. Young-Jun Son](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=270111), [Prof. Reem Khir](https://sites.google.com/view/reemkhir), and [Prof. Yi Ding](https://y-ding.github.io/).
 
 Previously, I earned my MS (2021) in Industrial Engineering from Purdue University advised by Prof. Hua Cai; and I obtained my BE (2019) in Electric and Information Engineering from Beihang University advised by [Prof. Xiaoqian Sun and Prof. Sebastian Wandelt](https://www.m3nets.de/). I also worked with [Dr. Massimiliano Zanin](https://scholar.google.com/citations?user=NrcrF-cAAAAJ&hl=es&inst=5549692440350501774) as an undergraduate researcher at Polytechnic University of Madrid from 02/2019 to 05/2019.
 
