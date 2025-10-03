@@ -21,8 +21,7 @@ I am a fifth-year Ph.D. Candidate in [Industrial Engineering](https://engineerin
 
 Previously, I earned my MS (2021) in Industrial Engineering from Purdue University advised by Prof. Hua Cai; and I obtained my BE (2019) in Electric and Information Engineering from Beihang University advised by [Prof. Xiaoqian Sun and Prof. Sebastian Wandelt](https://www.m3nets.de/). I also worked with [Dr. Massimiliano Zanin](https://scholar.google.com/citations?user=NrcrF-cAAAAJ&hl=es&inst=5549692440350501774) as an undergraduate researcher at Polytechnic University of Madrid from 02/2019 to 05/2019.
 
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest focuses on fusing AI/ML and operations research (OR) to tackle planning and operational challenges and to advance sustainability in urban mobility and logistics systems. During my PhD study, I have gained full-lifecycle experience in  AI/ML system design and deployment, spanning shared mobility rebalancing, resilient network design, automatic life-cycle assessment, and intelligent tutoring systems.
 
 
 # 🔥 News
@@ -55,6 +54,13 @@ My research interest includes neural machine translation and computer vision. I 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 📚 Teaching and Mentorship
+- **Graduate Lecturer**, *Purdue IE 343: Engineering Economics*, Fall 2023 (150 students)
+- **Guest Lecturer**, *Purdue EEE 560: Environmental Data Science*, Fall 2024
+- **Teaching Assistant**, *Purdue IE 343: Engineering Economics*, Fall 2021 - Fall 2025 (10 sessions in total)
+- **Teaching Assistant**, *Purdue IE 590/EEE 595: Urban Mobility Optimization*, Spring 2024
+# Services
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
