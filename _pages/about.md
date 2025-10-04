@@ -44,20 +44,10 @@ My research interest focuses on fusing AI/ML and operations research (OR) to tac
   - In preparation for publication in an internal conference and repository
 
 # 📝 Publications 
+- <span class="badge badge-preprint">Preprint 2025</span>
+  ViTSP: A Vision Language Models Guided Framework for Large-Scale Traveling Salesman Problems<br>
+  **Zhuoli Yin**, Yi Ding, Reem Khir, Hua Cai  [📄 Paper](https://arxiv.org/pdf/2509.23465)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Selected Awards
 - *05/2025* IISE Doctoral Colloquium (3 participants nominated per department)
@@ -67,13 +57,36 @@ My research interest focuses on fusing AI/ML and operations research (OR) to tac
 - *05/2023* Graduate School Summer Research Grant, Purdue University
 - *09/2022* Honorable Mention Poster Award, Purdue Engineering Graduate Showcase
 
-# 📚 Teaching and Mentorship
+# 📚 Teaching
 - **Graduate Lecturer**, *Purdue IE 343: Engineering Economics*, Fall 2023 (150 students)
 - **Guest Lecturer**, *Purdue EEE 560: Environmental Data Science*, Fall 2024
 - **Teaching Assistant**, *Purdue IE 343: Engineering Economics*, Fall 2021 - Fall 2025 (10 sessions in total)
 - **Teaching Assistant**, *Purdue IE 590/EEE 595: Urban Mobility Optimization*, Spring 2024
-# Services
 
+# 🔍 Mentorship
+**Undergraduate Students**
+- Laura Almeida Tinjaca (National University of Colombia-Purdue Program)
+- Quan The Dinh (Purdue, Computer Science)
+- Karen Fortunat (Purdue, Industrial Engineering)
+- Kalei Bass (Purdue, Industrial Engineering)
+
+# 💪 Services
+**Selected Internal Service at Purdue**
+- *10/2023 - 12/2023*: Student representative on the faculty search committee
+- *05/2022 - 05/2023*: Vice President, Industrial Engineering Graduate Student Organization (IEGSO)
+
+ **Selected External Service to Professional Societies**
+- *09/2023*: Support team, 2023 Purdue Research Symposium on Operations
+- *05/2022*: Session chair, IISE Annual Conference & Expo 2022
+
+**Conference Reviewer** 
+- Transportation Research Board Annual Meeting (TRB) 2026
+- Neural Information Processing Systems (NeurIPS) 2025
+- International Symposium for Sustainable Systems and Technology (ISSST) 2024
+
+**Journal Reviewer**
+- Journal of Cleaner Production
+- Networks and Spatial Economics
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
