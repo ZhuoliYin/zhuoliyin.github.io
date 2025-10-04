@@ -29,11 +29,11 @@ My research interest focuses on fusing AI/ML and operations research (OR) to tac
 - *08/2025*: Our paper ["Enhanced global oil spill dataset from 1967 to 2023 based on text-form incident information"](https://www.nature.com/articles/s41597-025-05601-9) has been published online in *Scientific Data*.
 - *06/2025*: I joined Amazon as an applied scientist intern in NYC🗽.
 - *05/2025*: I will attend IISE annual conference 2025 and present three works.
-- *04/2025*: I received an $800 Graduate Research Grant from Purdue’s Institute for a Sustainable Future (ISF) to support my research on assessing AI models' carbon footprint.
+- *04/2025*: I received a Graduate Research Grant from Purdue’s Institute for a Sustainable Future (ISF) to support my research on assessing AI models' carbon footprint.
 - *10/2024*: I am honored to have been selected as a 2024–2025 IISE Future Faculty Fellow. I am fortunate to be paired with [Prof. Uday Venkatadri](https://www.dal.ca/faculty/engineering/industrial/faculty-staff/our-faculty1/professors/uday-venkatadri.html) as my mentor! 
 - *08/2024*: I attend [NSF Workshop on Sustainable Computng](https://nsf-desc-2024.github.io/) held at Purdue on Aug 20-21
 - *10/2023*: I received 2023-2024 Lee A. Chaden Fellowship in Industrial Engineering at Purdue.
-- *09/2023*: Purdue Today featured our story on [Arthur](https://www.purdue.edu/studentsuccess/news/09_07_23.html), an AI-powered teaching assistant tool designed to support engineering education.
+- *09/2023*: *Purdue Today* featured our story on [Arthur](https://www.purdue.edu/studentsuccess/news/09_07_23.html), an AI-powered teaching assistant tool designed to support engineering education.
 - *08/2023*: I will be lecturing IE343 Engineering Economics with ~150 undergraduate students. Looking forward to the new semester!
   
 # 💻 Internships
@@ -59,9 +59,13 @@ My research interest focuses on fusing AI/ML and operations research (OR) to tac
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Selected Awards
+- *05/2025* IISE Doctoral Colloquium (3 participants nominated per department)
+- *05/2025* NSF IISE Annual Conference Student Travel Award
+- *10/2024* 2024-2025 IISE Future Faculty Fellow (15 participants selected per year)
+- *10/2023* 2023-2024 Lee A. Chaden Fellowship in Industrial Engineering, Purdue University
+- *05/2023* Graduate School Summer Research Grant, Purdue University
+- *09/2022* Honorable Mention Poster Award, Purdue Engineering Graduate Showcase
 
 # 📚 Teaching and Mentorship
 - **Graduate Lecturer**, *Purdue IE 343: Engineering Economics*, Fall 2023 (150 students)
