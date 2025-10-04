@@ -24,6 +24,9 @@ Previously, I earned my MS (2021) in Industrial Engineering from Purdue Universi
 
 My research interest focuses on fusing AI/ML and operations research (OR) to tackle planning and operational challenges and to advance sustainability in urban mobility and logistics systems. During my PhD study, I have gained full-lifecycle experience in both **Generative AI** and **Machine Learning** system design and deployment, spanning shared mobility rebalancing, resilient network design, automatic life-cycle assessment, and intelligent tutoring systems.
 
+<span style="color:red; font-weight:bold; font-size:1.05em">
+🚀 I am on the 2025-2026 job market. Feel free to get in touch!
+</span>
 
 # 🔥 News
 - *08/2025*: Our paper ["Enhanced global oil spill dataset from 1967 to 2023 based on text-form incident information"](https://www.nature.com/articles/s41597-025-05601-9) has been published online in *Scientific Data*.
