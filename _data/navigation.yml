@@ -22,4 +22,4 @@ main:
     url: "/#-invited-talks"
 
   - title: "new"       # <--- add new tab
-    url: "/fun/"
+    url: "/new/"
