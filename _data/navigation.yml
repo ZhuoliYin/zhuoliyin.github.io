@@ -12,14 +12,20 @@ main:
   - title: "Internships"
     url: "/#-internships"
     
-  - title: "Honors and Awards"
+  - title: "Selected Awards"
     url: "/#-honors-and-awards"
+    
+  - title: "Teaching"
+    url: "/#-teaching"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Mentorship"
+    url: "/#-mentorship"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  # - title: "Educations"
+  #   url: "/#-educations"
 
-  - title: "new"       # <--- add new tab
-    url: "/new/"
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
+
+  # - title: "new"       # <--- add new tab
+  #   url: "/new/"
