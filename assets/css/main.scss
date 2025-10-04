@@ -97,13 +97,109 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+// .badge {
+//     padding-left: 1rem;
+//     padding-right: 1rem;
+//     position: absolute;
+//     margin-top: .5em;
+//     margin-left: -.5em;
+//     color: white;
+//     background-color: #00369f;
+//     font-size: .8em;
+// }
+
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
+  display: inline-block;
+  background-color: #357EDD;
+  color: white;
+  font-size: 0.9em;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 4px;
+  margin-right: 6px;
+  vertical-align: middle; /* 关键属性 */
+  line-height: 1;         /* 避免撑高行距 */
+}
+
+.badge-light {
+  background-color: #f0f0f0;  /* 浅灰色背景 */
+  color: #333;                /* 深灰字体 */
+  border: 1px solid #dcdcdc;  /* 细边框，让它更轻 */
+}
+
+
+.badge-preprint {
+  background-color: #e0e0e0; /* 淡灰色背景 */
+  color: #333333;            /* 深灰字体 */
+}
+
+.education-entry {
+  margin-bottom: 1.2em;
+  line-height: 1.6;
+}
+
+.education-entry strong {
+  font-size: 1.05em;
+  color: #000;
+}
+
+.education-entry em {
+  color: #444;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.sidebar img {
+  border-radius: 50%;
+  max-width: 160px;
+  margin: 0 auto;
+  display: block;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.fun-sidebar-text {
+  text-align: center;
+  font-size: 1em;
+  line-height: 1.8;
+  color: #444;
+  margin-top: 10px;
+  font-family: "Comic Sans MS", "Segoe UI", sans-serif;
+}
+
+.fun-sidebar-text p {
+  margin: 0.3em 0;
+}
+
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 16px;
+  margin-top: 1em;
+}
+
+.gallery-grid a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: #444;
+}
+
+.gallery-grid img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease;
+}
+
+.gallery-grid img:hover {
+  transform: scale(1.02);
+}
+
+.caption {
+  margin-top: 0.5em;
+  font-size: 0.9em;
+  color: #666;
 }
