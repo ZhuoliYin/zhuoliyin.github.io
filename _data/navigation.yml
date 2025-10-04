@@ -13,7 +13,7 @@ main:
     url: "/#-internships"
     
   - title: "Selected Awards"
-    url: "/#-honors-and-awards"
+    url: "/#-selected-awards"
     
   - title: "Teaching"
     url: "/#-teaching"
@@ -21,6 +21,9 @@ main:
   - title: "Mentorship"
     url: "/#-mentorship"
 
+  - title: "Services"
+    url: "/#-services"
+    
   # - title: "Educations"
   #   url: "/#-educations"
 
