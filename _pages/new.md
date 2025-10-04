@@ -1,8 +1,19 @@
 ---
 layout: page
-permalink: /new/
 title: "new"
+permalink: /new/
 author_profile: false
+
+sidebar:
+  - image: /images/stardew-avatar.png
+    image_alt: Stardew Valley Avatar
+  - title: ""
+    text: >
+      <div class="fun-sidebar-text">
+        <p>🏋️‍♀️ Fitness beginner (but trying hard!)</p>
+        <p>🌾 Stardew Valley farmer</p>
+        <p>🐾 Nature and animal lover</p>
+      </div>
 ---
 
 # Welcome to my homepage! 👋
