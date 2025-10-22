@@ -30,5 +30,5 @@ main:
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
-  # - title: "new"       # <--- add new tab
-  #   url: "/new/"
+  - title: "new"       # <--- add new tab
+    url: "/new/"
