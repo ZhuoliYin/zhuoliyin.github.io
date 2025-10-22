@@ -16,3 +16,11 @@ Growing up in a family of teachers, I bring a strong and distinctive record of t
 - [[Syllabus]](../pdf/IE343_syllabus_ZY.pdf)
   
 <img src="../images/inclass_photo_1.JPG" alt="In-class photo_1" width="400"> <img src="../images/inclass_photo_2.jpg" alt="In-class photo_2" width="238">
+
+
+## Mentorship
+**Undergraduate Students**
+- Laura Almeida Tinjaca (National University of Colombia-Purdue Program)
+- Quan The Dinh (Purdue, Computer Science)
+- Karen Fortunat (Purdue, Industrial Engineering)
+- Kalei Bass (Purdue, Industrial Engineering)
