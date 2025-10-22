@@ -4,16 +4,6 @@ title: "teaching"
 permalink: /teaching/
 author_profile: false
 
-sidebar:
-  - image: /images/stardew-avatar.png
-    image_alt: Stardew Valley Avatar
-  - title: ""
-    text: >
-      <div class="fun-sidebar-text">
-        <p>🏋️‍♀️ Fitness beginner (but trying hard!)</p>
-        <p>🌾 Stardew Valley farmer</p>
-        <p>🐾 Nature and animal lover</p>
-      </div>
 ---
 
 Growing up in a family of teachers, I bring a strong and distinctive record of teaching and educational innovation during my PhD journey. In particular, I have extensive experience in *IE343 — Engineering Economics*, serving in both lecturing and teaching assistant roles across **ten** semesters as of Fall 2025.
