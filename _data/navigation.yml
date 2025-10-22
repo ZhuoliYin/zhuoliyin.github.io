@@ -16,7 +16,7 @@ main:
     url: "/#-selected-awards"
     
   - title: "Teaching"
-    url: "/#-teaching"
+    url: "/teaching/"
 
   - title: "Mentorship"
     url: "/#-mentorship"
