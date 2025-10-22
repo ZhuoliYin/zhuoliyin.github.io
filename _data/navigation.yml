@@ -9,8 +9,8 @@ main:
   - title: "Research"
     url: "/research/"
     
-  - title: "Publications"
-    url: "/#-publications"
+  # - title: "Publications"
+    # url: "/#-publications"
     
   - title: "Internships"
     url: "/#-internships"
@@ -21,8 +21,8 @@ main:
   - title: "Teaching"
     url: "/teaching/"
 
-  - title: "Mentorship"
-    url: "/#-mentorship"
+  # - title: "Mentorship"
+  # url: "/#-mentorship"
 
   - title: "Services"
     url: "/#-services"
@@ -33,5 +33,5 @@ main:
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
-  - title: "new"       # <--- add new tab
-    url: "/new/"
+  # - title: "new"       # <--- add new tab
+    # url: "/new/"
