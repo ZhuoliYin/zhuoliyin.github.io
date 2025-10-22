@@ -21,10 +21,12 @@ Growing up in a family of teachers, I bring a strong and distinctive record of t
 ## Instructor
 
 ### IE343 Engineering Economics, Purdue University, Fall 2023
-- Enrollment: 150 undergraduate students from 10 different engineering disciplines
+- Enrollment: **150** undergraduate students from 10 different engineering disciplines
 - Overall evaluation score: 4.5/5.0
 - Fully responsible for the class, and supervised two teaching assistants and two graders.
-![Alt text](path/to/image.png)
+- Syllabus
+<img src="../images/inclass_photo_1.JPG" alt="In-class photo_1" width="400"> <img src="../images/inclass_photo_2.jpg" alt="In-class photo_2" width="238">
+
 
 I am a fifth-year Ph.D. Candidate in [Industrial Engineering](https://engineering.purdue.edu/IE) at Purdue University, working with [Prof. Hua Cai](https://engineering.purdue.edu/uSMART) in the uSMART group. My advisory committee includes [Prof. Stephan Biller](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=273149), [Prof. Young-Jun Son](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=270111), [Prof. Reem Khir](https://sites.google.com/view/reemkhir), and [Prof. Yi Ding](https://y-ding.github.io/).
 
