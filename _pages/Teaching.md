@@ -1,9 +1,8 @@
 ---
-layout: single
-title: "teaching"
+layout: page
+title: "Teaching"
 permalink: /teaching/
 author_profile: false
-
 ---
 
 Growing up in a family of teachers, I bring a strong and distinctive record of teaching and educational innovation during my PhD journey. In particular, I have extensive experience in *IE343 — Engineering Economics*, serving in both lecturing and teaching assistant roles across **ten** semesters as of Fall 2025.
