@@ -18,7 +18,7 @@ My research aims to integrate AI/ML and OR to design both efficient and sustaina
 I am particularly interested in **applied AI** for urban mobility and logistics systems, identifying their sustainability opportunities while maintain service efficiency. 
 
 I am currently focusing on three key areas: 
-1. fusing generative AI and OR to transform routing optimization;
+1. fusing generative AI and OR to transform combinatorial optimization;
 2. optimizing the on-demand operation of shared mobility systems;
 3. evaluating life-cycle carbon footprint of AI systems.
 
