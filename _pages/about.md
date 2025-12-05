@@ -24,7 +24,7 @@ Previously, I earned my MS (2021) in Industrial Engineering from Purdue Universi
 
 My research interest focuses on fusing AI/ML and operations research (OR) to tackle planning and operational challenges and to advance sustainability in urban mobility and logistics systems. During my PhD study, I have gained full-lifecycle experience in both **Generative AI** and **Machine Learning** system design and deployment, spanning shared mobility rebalancing, resilient network design, automatic life-cycle assessment, and intelligent tutoring systems.
 
-[[CV]](../pdf/Academic_CV_ZY.pdf) / [[Resume]](../pdf/Zhuoli_Yin_Resume_12_2025.pdf)
+[[CV]](../pdf/Zhuoli_Yin_Academic_CV_12_2025.pdf) / [[Resume]](../pdf/Zhuoli_Yin_Resume_12_2025.pdf)
 
 
 <span style="color:red; font-weight:bold; font-size:1.05em">
