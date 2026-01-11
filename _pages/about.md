@@ -32,6 +32,7 @@ My research interest focuses on fusing AI/ML and operations research (OR) to tac
 </span>
 
 # 🔥 News
+- *01/2026*: Our paper *Arthur: An Artificial Intelligence Powered Teaching Assistant System for Engineering Economics Class* has just been accepted by *International Journal of Artificial Intelligence in Education*. Stay tuned for the online version!
 - *08/2025*: Our paper ["Enhanced global oil spill dataset from 1967 to 2023 based on text-form incident information"](https://www.nature.com/articles/s41597-025-05601-9) has been published online in *Scientific Data*.
 - *06/2025*: I joined Amazon as an applied scientist intern in NYC🗽.
 - *05/2025*: I will attend IISE annual conference 2025 and present three works.
