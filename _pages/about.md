@@ -32,7 +32,8 @@ My research interest focuses on fusing AI/ML and operations research (OR) to tac
 </span>
 
 # 🔥 News
-- *01/2026*: Our paper *Arthur: An Artificial Intelligence Powered Teaching Assistant System for Engineering Economics Class* has just been accepted by *International Journal of Artificial Intelligence in Education*. Stay tuned for the online version!
+- *01/2026*: Our paper on [VLM-guided optimization for solving TSP](https://arxiv.org/abs/2509.23465) is accepted to [ICLR 2026](https://iclr.cc/)! Thanks to all the authors!
+- *01/2026*: Our paper *Arthur: An Artificial Intelligence Powered Teaching Assistant System for Engineering Economics Class* has just been accepted by [*International Journal of Artificial Intelligence in Education*](https://link.springer.com/journal/40593). Stay tuned for the online version!
 - *08/2025*: Our paper ["Enhanced global oil spill dataset from 1967 to 2023 based on text-form incident information"](https://www.nature.com/articles/s41597-025-05601-9) has been published online in *Scientific Data*.
 - *06/2025*: I joined Amazon as an applied scientist intern in NYC🗽.
 - *05/2025*: I will attend IISE annual conference 2025 and present three works.
@@ -51,9 +52,14 @@ My research interest focuses on fusing AI/ML and operations research (OR) to tac
   - In preparation for publication in an internal conference and repository
 
 # 📝 Publications 
-- <span class="badge badge-preprint">Preprint 2025</span>
+- <span class="badge badge-preprint">Just Accepted 2026</span>
   ViTSP: A Vision Language Models Guided Framework for Large-Scale Traveling Salesman Problems<br>
-  **Zhuoli Yin**, Yi Ding, Reem Khir, & Hua Cai  [📄 Paper](https://arxiv.org/pdf/2509.23465)
+  **Zhuoli Yin**, Yi Ding, Reem Khir, & Hua Cai  [📄 Paper](https://arxiv.org/pdf/2509.23465) \
+  ICLR'26: The 14th International Conference on Learning Representations
+- <span class="badge badge-preprint">Just Accepted 2026</span>
+  Arthur: An Artificial Intelligence Powered Teaching Assistant System for Engineering Economics Class <br>
+  **Zhuoli Yin**, Erhan Karakaya, Kalei Bass, & Hua Cai \
+  International Journal of Artificial Intelligence in Education. 2026.
 - <span class="badge badge-preprint">Preprint 2025</span>
   DeepBike: A Deep Reinforcement Learning Based Model for Large-scale Online Bike Share Rebalancing <br>
   **Zhuoli Yin**, Zhaoyu Kou, & Hua Cai  [📄 Paper](https://assets-eu.researchsquare.com/files/rs-3998473/v1_covered_2f3e5b57-935c-4d98-9d01-907b9a688ef0.pdf)
