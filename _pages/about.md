@@ -49,7 +49,6 @@ My research interest focuses on fusing AI/ML and operations research (OR) to tac
   - Global Transportation Services, hosted by [Dr. Golnush Amoli](https://www.linkedin.com/in/golnush-masghati-amoli-30606592/) & [Hana Ku](https://www.linkedin.com/in/kuhana/)
   - Developed Amazon's next-generation AI-driven tools to advance resilient and dynamic transportation network design.
   - Led the full lifecycle from conceptualization, multi-source data analysis, large-scale simulation, AI model training, and minimum viable product delivery.
-  - In preparation for publication in an internal conference and repository
 
 # 📝 Publications 
 - <span class="badge badge-preprint">Just Accepted 2026</span>
