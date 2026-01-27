@@ -31,6 +31,8 @@ My research interest focuses on fusing AI/ML and operations research (OR) to tac
 🚀 I am on the 2025-2026 job market. Feel free to get in touch!
 </span>
 
+![Zhuoli Yin Portfolio Preview](images/screenshot.png)
+
 # 🔥 News
 - *01/2026*: Our paper on [VLM-guided optimization for solving TSP](https://arxiv.org/abs/2509.23465) is accepted to [ICLR 2026](https://iclr.cc/)! Thanks to all the authors!
 - *01/2026*: Our paper *Arthur: An Artificial Intelligence Powered Teaching Assistant System for Engineering Economics Class* has just been accepted by [*International Journal of Artificial Intelligence in Education*](https://link.springer.com/journal/40593). Stay tuned for the online version!
