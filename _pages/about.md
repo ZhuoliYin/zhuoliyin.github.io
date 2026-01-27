@@ -24,6 +24,9 @@ Previously, I earned my MS (2021) in Industrial Engineering from Purdue Universi
 
 My research interest focuses on fusing AI/ML and operations research (OR) to tackle planning and operational challenges and to advance sustainability in urban mobility and logistics systems. During my PhD study, I have gained full-lifecycle experience in both **Generative AI** and **Machine Learning** system design and deployment, spanning shared mobility rebalancing, resilient network design, automatic life-cycle assessment, and intelligent tutoring systems.
 
+![research_teaching_summary](../images/research_teaching_summary.png)
+
+
 [[CV]](../pdf/Zhuoli_Yin_Academic_CV_12_2025.pdf) / [[Resume]](../pdf/Zhuoli_Yin_Resume_12_2025.pdf)
 
 
@@ -31,7 +34,6 @@ My research interest focuses on fusing AI/ML and operations research (OR) to tac
 🚀 I am on the 2025-2026 job market. Feel free to get in touch!
 </span>
 
-![Zhuoli Yin Portfolio Preview](images/screenshot.png)
 
 # 🔥 News
 - *01/2026*: Our paper on [VLM-guided optimization for solving TSP](https://arxiv.org/abs/2509.23465) is accepted to [ICLR 2026](https://iclr.cc/)! Thanks to all the authors!
