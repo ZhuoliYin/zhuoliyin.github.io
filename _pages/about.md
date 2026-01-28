@@ -42,6 +42,7 @@ My research interest focuses on fusing AI/ML and operations research (OR) to tac
 - *06/2025*: I joined Amazon as an applied scientist intern in NYC🗽.
 - *05/2025*: I will attend IISE annual conference 2025 and present three works.
 - *04/2025*: I received a Graduate Research Grant from Purdue’s Institute for a Sustainable Future (ISF) to support my research on assessing AI models' carbon footprint.
+- *04/2025*: I have passed my Ph.D. prelim exam. Many thanks to my advisor and committee members for their continued support!
 - *10/2024*: I am honored to have been selected as a 2024–2025 IISE Future Faculty Fellow. I am fortunate to be paired with [Prof. Uday Venkatadri](https://www.dal.ca/faculty/engineering/industrial/faculty-staff/our-faculty1/professors/uday-venkatadri.html) as my mentor! 
 - *08/2024*: I attend [NSF Workshop on Sustainable Computng](https://nsf-desc-2024.github.io/) held at Purdue on Aug 20-21
 - *10/2023*: I received 2023-2024 Lee A. Chaden Fellowship in Industrial Engineering at Purdue.
