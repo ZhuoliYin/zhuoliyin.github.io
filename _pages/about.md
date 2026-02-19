@@ -27,7 +27,7 @@ My research interest focuses on fusing AI/ML and operations research (OR) to tac
 ![research_teaching_summary](../images/research_teaching_summary.png)
 
 
-[[CV (Feb-18-2026)]](../pdf/Zhuoli_Yin_Academic_CV_Feb_18_2026.pdf.pdf)
+[[CV (Feb-18-2026)]](../pdf/Zhuoli_Yin_Academic_CV_Feb_18_2026.pdf)
 
 
 <span style="color:red; font-weight:bold; font-size:1.05em">
