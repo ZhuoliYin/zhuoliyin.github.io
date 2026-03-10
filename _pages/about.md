@@ -38,6 +38,7 @@ My research agenda and teaching experiences are summarized below.
 
 
 # 🔥 News
+- *03/2026*: I received the [**Estus H. and Vashti L. Magoon Research Excellence Award**](https://engineering.purdue.edu/Engr/People/Awards/Graduate/ptRecipientListing?group_id=237384&show_sub_groups=1) from the College of Engineering (COE) at Purdue University. I am grateful to my advisor, Dr. Hua Cai, and to the COE for their support.
 - *01/2026*: Our paper on [VLM-guided optimization for solving TSP](https://arxiv.org/abs/2509.23465) is accepted to [ICLR 2026](https://iclr.cc/)! Thanks to all the authors!
 - *01/2026*: Our paper *Arthur: An Artificial Intelligence Powered Teaching Assistant System for Engineering Economics Class* has just been accepted by [*International Journal of Artificial Intelligence in Education*](https://link.springer.com/journal/40593). Stay tuned for the online version!
 - *08/2025*: Our paper ["Enhanced global oil spill dataset from 1967 to 2023 based on text-form incident information"](https://www.nature.com/articles/s41597-025-05601-9) has been published online in *Scientific Data*.
