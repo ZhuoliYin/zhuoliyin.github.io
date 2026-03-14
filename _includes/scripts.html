@@ -1,4 +1,15 @@
 <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
 
+{% assign visitor_map = site.visitor_map %}
+{% if visitor_map and visitor_map.enabled and visitor_map.script_src %}
+<div style="display:none" aria-hidden="true">
+  <script
+    type="text/javascript"
+    id="{{ visitor_map.script_id | default: 'visitor-map-script' }}"
+    src="{{ visitor_map.script_src }}"
+  ></script>
+</div>
+{% endif %}
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
