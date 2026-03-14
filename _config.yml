@@ -14,6 +14,13 @@ google_scholar_stats_use_cdn : true
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
+visitor_map:
+  enabled: true
+  provider: "mapmyvisitors"
+  description: "Thanks for stopping by. This map highlights where recent visits came from."
+  script_id: "mapmyvisitors"
+  script_src: "//mapmyvisitors.com/map.js?d=JSnlub1rP5sJpwjUJgjd-L272J-NAhqB5tiONQyqRUo&cl=ffffff&w=a"
+
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
