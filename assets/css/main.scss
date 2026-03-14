@@ -228,4 +228,16 @@ h1:before, .anchor:before {
   display: flex;
   justify-content: center;
   overflow-x: auto;
+  padding-bottom: 0.5rem;
+}
+
+.visitor-map-card__embed > * {
+  transform: scale(0.78);
+  transform-origin: top center;
+}
+
+@media (max-width: 640px) {
+  .visitor-map-card__embed > * {
+    transform: scale(0.68);
+  }
 }
