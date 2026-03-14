@@ -163,7 +163,7 @@ h1:before, .anchor:before {
   line-height: 1.8;
   color: #444;
   margin-top: 10px;
-  font-family: "Comic Sans MS", "Segoe UI", sans-serif;
+  font-family: $global-font-family;
 }
 
 .fun-sidebar-text p {
