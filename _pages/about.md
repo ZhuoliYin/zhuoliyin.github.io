@@ -119,7 +119,22 @@ My research agenda and teaching experiences are summarized below.
 - Journal of Cleaner Production
 - Networks and Spatial Economics
 
-{% include visitor-map.html %}
+{% assign visitor_map = site.visitor_map %}
+{% if visitor_map and visitor_map.enabled and visitor_map.script_src %}
+<section class="visitor-map-card">
+  <h2 class="visitor-map-card__title">Visitors</h2>
+  {% if visitor_map.description %}
+    <p class="visitor-map-card__description">{{ visitor_map.description }}</p>
+  {% endif %}
+  <div class="visitor-map-card__embed">
+    <script
+      type="text/javascript"
+      id="{{ visitor_map.script_id | default: 'visitor-map-script' }}"
+      src="{{ visitor_map.script_src }}"
+    ></script>
+  </div>
+</section>
+{% endif %}
 
 <!--
 # 💬 Invited Talks
