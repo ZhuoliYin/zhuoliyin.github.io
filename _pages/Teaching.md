@@ -14,8 +14,6 @@ Growing up in a family of teachers, I bring a strong and distinctive record of t
 - Overall evaluation score: 4.5/5.0
 - Fully responsible for the class, and supervised two teaching assistants and two graders.
 - [[Syllabus]](../pdf/IE343_syllabus_ZY.pdf)
-  
-<img src="../images/inclass_photo_1.JPG" alt="In-class photo_1" width="400"> <img src="../images/inclass_photo_2.jpg" alt="In-class photo_2" width="238">
 
 
 ## Mentorship

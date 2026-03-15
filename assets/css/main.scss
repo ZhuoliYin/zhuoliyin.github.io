@@ -150,11 +150,11 @@ h1:before, .anchor:before {
 }
 
 .sidebar img {
-  border-radius: 50%;
+  border-radius: 0;
   max-width: 160px;
   margin: 0 auto;
   display: block;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  box-shadow: none;
 }
 
 .fun-sidebar-text {
