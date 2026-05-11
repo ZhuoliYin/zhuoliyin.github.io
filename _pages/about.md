@@ -38,20 +38,20 @@ My research agenda and teaching experiences are summarized below.
 
 
 # 🔥 News
-- *05/2026*: I will join the Department of Mechanical Engineering (Industrial Engineering Program) at the University of South Carolina as a Tenure-track Assistant Professor in Fall 2026. I am recruiting highly motivated PhD students to join my lab, with fully funded positions available. Please feel free to reach out.
-- *03/2026*: I received the [Estus H. and Vashti L. Magoon Research Excellence Award](https://engineering.purdue.edu/Engr/People/Awards/Graduate/ptRecipientListing?group_id=237384&show_sub_groups=1) from the College of Engineering (COE) at Purdue University. I am grateful to my advisor, Dr. Hua Cai, and to the COE for their support.
-- *01/2026*: Our paper on [VLM-guided optimization for solving large-scale TSP](https://arxiv.org/abs/2509.23465) is accepted to [ICLR 2026](https://iclr.cc/)! Thanks to all the authors!
-- *01/2026*: Our paper ["Arthur: An Artificial Intelligence Powered Teaching Assistant System for Engineering Economics Class"](https://doi.org/10.1016/j.ijaied.2026.100003) has just been accepted by [*International Journal of Artificial Intelligence in Education*](https://www.sciencedirect.com/journal/international-journal-of-artificial-intelligence-in-education) and it is now published online. ~~Stay tuned for the online version!~~
-- *08/2025*: Our paper ["Enhanced global oil spill dataset from 1967 to 2023 based on text-form incident information"](https://www.nature.com/articles/s41597-025-05601-9) has been published online in *Scientific Data*.
-- *06/2025*: I joined Amazon as an applied scientist intern in NYC🗽.
-- *05/2025*: I will attend IISE annual conference 2025 and present three works.
-- *04/2025*: I received a Graduate Research Grant from Purdue’s Institute for a Sustainable Future (ISF) to support my research on assessing AI models' carbon footprint.
-- *04/2025*: I have passed my Ph.D. prelim exam. Many thanks to my advisor and committee members for their continued support!
-- *10/2024*: I am honored to have been selected as a 2024–2025 IISE Future Faculty Fellow. I am fortunate to be paired with [Prof. Uday Venkatadri](https://www.dal.ca/faculty/engineering/industrial/faculty-staff/our-faculty1/professors/uday-venkatadri.html) as my mentor! 
-- *08/2024*: I attend [NSF Workshop on Sustainable Computng](https://nsf-desc-2024.github.io/) held at Purdue on Aug 20-21
-- *10/2023*: I received 2023-2024 Lee A. Chaden Fellowship in Industrial Engineering at Purdue.
-- *09/2023*: *Purdue Today* featured our story on [Arthur](https://www.purdue.edu/studentsuccess/news/09_07_23.html), an AI-powered teaching assistant tool designed to support engineering education.
-- *08/2023*: I will be lecturing IE343 Engineering Economics with ~150 undergraduate students. Looking forward to the new semester!
+- 05/2026: I will join the Department of Mechanical Engineering (Industrial Engineering Program) at the University of South Carolina as a Tenure-track Assistant Professor in Fall 2026. I am recruiting highly motivated PhD students to join my lab, with fully funded positions available. Please feel free to reach out.
+- 03/2026: I received the [Estus H. and Vashti L. Magoon Research Excellence Award](https://engineering.purdue.edu/Engr/People/Awards/Graduate/ptRecipientListing?group_id=237384&show_sub_groups=1) from the College of Engineering (COE) at Purdue University. I am grateful to my advisor, Dr. Hua Cai, and to the COE for their support.
+- 01/2026: Our paper on [VLM-guided optimization for solving large-scale TSP](https://arxiv.org/abs/2509.23465) is accepted to [ICLR 2026](https://iclr.cc/)! Thanks to all the authors!
+- 01/2026: Our paper ["Arthur: An Artificial Intelligence Powered Teaching Assistant System for Engineering Economics Class"](https://doi.org/10.1016/j.ijaied.2026.100003) has just been accepted by [*International Journal of Artificial Intelligence in Education*](https://www.sciencedirect.com/journal/international-journal-of-artificial-intelligence-in-education) and it is now published online. ~~Stay tuned for the online version!~~
+- 08/2025: Our paper ["Enhanced global oil spill dataset from 1967 to 2023 based on text-form incident information"](https://www.nature.com/articles/s41597-025-05601-9) has been published online in *Scientific Data*.
+- 06/2025: I joined Amazon as an applied scientist intern in NYC🗽.
+- 05/2025: I will attend IISE annual conference 2025 and present three works.
+- 04/2025: I received a Graduate Research Grant from Purdue’s Institute for a Sustainable Future (ISF) to support my research on assessing AI models' carbon footprint.
+- 04/2025: I have passed my Ph.D. prelim exam. Many thanks to my advisor and committee members for their continued support!
+- 10/2024: I am honored to have been selected as a 2024–2025 IISE Future Faculty Fellow. I am fortunate to be paired with [Prof. Uday Venkatadri](https://www.dal.ca/faculty/engineering/industrial/faculty-staff/our-faculty1/professors/uday-venkatadri.html) as my mentor! 
+- 08/2024: I attend [NSF Workshop on Sustainable Computng](https://nsf-desc-2024.github.io/) held at Purdue on Aug 20-21
+- 10/2023: I received 2023-2024 Lee A. Chaden Fellowship in Industrial Engineering at Purdue.
+- 09/2023: *Purdue Today* featured our story on [Arthur](https://www.purdue.edu/studentsuccess/news/09_07_23.html), an AI-powered teaching assistant tool designed to support engineering education.
+- 08/2023: I will be lecturing IE343 Engineering Economics with ~150 undergraduate students. Looking forward to the new semester!
   
 # 💻 Internships
 - *06/2025 - 09/2025*, **Amazon.com, Applied Scientist Intern, New York, NY.**
