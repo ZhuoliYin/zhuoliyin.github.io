@@ -38,6 +38,7 @@ My research agenda and teaching experiences are summarized below.
 
 
 # 🔥 News
+- 05/2026: I will attend the 2026 IISE Annual Conference in Arlington, TX, where I will present my latest work on the sustainable use of AI for optimization. I will also join as a panelist for "Does AI Belong at the Sustainability Table? A Live Multi-AI Panel on Technology, Conscience, and Climate." Please feel free to come say hi!
 - 05/2026: I will join the [Department of Mechanical Engineering](https://sc.edu/study/colleges_schools/engineering_and_computing/departments/mechanical_engineering/) (Industrial Engineering Program) at the University of South Carolina as a Tenure-track Assistant Professor in Fall 2026. I am recruiting highly motivated PhD students to join my lab, with fully funded positions available. Please feel free to reach out.
 - 03/2026: I received the [Estus H. and Vashti L. Magoon Research Excellence Award](https://engineering.purdue.edu/Engr/People/Awards/Graduate/ptRecipientListing?group_id=237384&show_sub_groups=1) from the College of Engineering (COE) at Purdue University. I am grateful to my advisor, Dr. Hua Cai, and to the COE for their support.
 - 01/2026: Our paper on [VLM-guided optimization for solving large-scale TSP](https://arxiv.org/abs/2509.23465) is accepted to [ICLR 2026](https://iclr.cc/)! Thanks to all the authors!
