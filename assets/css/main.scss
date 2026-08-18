@@ -180,11 +180,19 @@ $usc-sandstorm: #fff2e3;
   letter-spacing: -0.025em;
 }
 
-.lab-section > p {
-  margin: 0;
+.lab-section > p,
+.lab-section__copy p {
   color: $usc-warm-gray;
   font-size: 1.08rem;
   line-height: 1.7;
+}
+
+.lab-section__copy p:first-child {
+  margin-top: 0;
+}
+
+.lab-section__copy p:last-child {
+  margin-bottom: 0;
 }
 
 .lab-card-grid {

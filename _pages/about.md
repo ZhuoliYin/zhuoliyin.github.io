@@ -24,7 +24,10 @@ redirect_from:
     <p class="lab-eyebrow">OUR MISSION</p>
     <h2>Decision intelligence that works beyond the benchmark</h2>
   </div>
-  <p>Our research brings together operations research and responsible AI/ML. We study how intelligent decision systems can generalize to new conditions, operate under finite computational budgets, and deliver net sustainability benefits when deployed at scale.</p>
+  <div class="lab-section__copy">
+    <p>The research lab is goal-driven and aims to advance decision intelligence and sustainable computing for complex systems.</p>
+    <p>Our research brings together operations research and responsible AI/ML. We study how intelligent decision systems can generalize to new conditions, operate under finite computational budgets, and deliver net sustainability benefits when deployed at scale.</p>
+  </div>
 </section>
 
 <div class="lab-card-grid lab-card-grid--three">
@@ -40,7 +43,7 @@ redirect_from:
   </article>
   <article class="lab-card">
     <span class="lab-card__number">03</span>
-    <h3>Sustainable AI</h3>
+    <h3>Sustainable AI systems</h3>
     <p>Life-cycle evaluation and system design that account for the environmental costs and benefits of AI.</p>
   </article>
 </div>

@@ -12,6 +12,8 @@ author_profile: false
   <p>We welcome Ph.D., master's, and undergraduate students, as well as remote collaborators and research interns, who are excited to combine rigorous methods with consequential problems in AI, operations research, transportation, logistics, and sustainability.</p>
 </section>
 
+<!-- TODO: Add a Mentoring Style section describing expectations, meeting cadence, feedback, independence, and lab culture. -->
+
 ## Who thrives here
 
 You do not need to arrive with every technical skill already in place. We value intellectual curiosity, reliability, kindness, and the willingness to learn. Strong candidates enjoy moving between mathematical ideas, computational experiments, and the real systems that motivate the work.
