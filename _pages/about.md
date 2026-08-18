@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -16,25 +16,62 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-### Welcome to my homepage! 👋
 
-I am a final-year Ph.D. Candidate in [Industrial Engineering](https://engineering.purdue.edu/IE) at Purdue University, working with [Prof. Hua Cai](https://engineering.purdue.edu/uSMART) in the uSMART group. My advisory committee includes [Prof. Stephan Biller](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=273149), [Prof. Young-Jun Son](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=270111), [Prof. Reem Khir](https://sites.google.com/view/reemkhir), and [Prof. Yi Ding](https://y-ding.github.io/).
+<section class="lab-hero">
+  <p class="lab-eyebrow">OPERATIONS RESEARCH · RESPONSIBLE AI · SUSTAINABLE SYSTEMS</p>
+  <h1>Yin Research Lab</h1>
+  <p class="lab-hero__lead">We build AI-augmented optimization systems that help people make better decisions in transportation, logistics, and other complex engineered systems.</p>
+  <div class="lab-actions">
+    <a class="lab-button lab-button--primary" href="{{ '/research/' | relative_url }}">Explore our research</a>
+    <a class="lab-button lab-button--secondary" href="{{ '/prospective-students/' | relative_url }}">Join the lab</a>
+  </div>
+</section>
 
-Previously, I earned my MS (2021) in Industrial Engineering from Purdue University advised by Prof. Hua Cai; and I obtained my BE (2019) in Electronic and Information Engineering from Beihang University advised by [Prof. Xiaoqian Sun and Prof. Sebastian Wandelt](https://www.m3nets.de/). I also worked with [Dr. Massimiliano Zanin](https://scholar.google.com/citations?user=NrcrF-cAAAAJ&hl=es&inst=5549692440350501774) as an undergraduate researcher at Polytechnic University of Madrid from 02/2019 to 05/2019.
+<section class="lab-section">
+  <div class="lab-section__heading">
+    <p class="lab-eyebrow">OUR MISSION</p>
+    <h2>Decision intelligence that works beyond the benchmark</h2>
+  </div>
+  <p>Our research brings together operations research and responsible AI/ML. We study how intelligent decision systems can generalize to new conditions, operate under finite computational budgets, and deliver net sustainability benefits when deployed at scale.</p>
+</section>
 
-My research focuses on fusing operations research (OR) and responsible AI/ML to develop decision intelligence systems. My work is particularly motivated by applications in urban transportation, e-commerce, and supply chains. During my PhD study, I have gained full-lifecycle experience in both **Generative AI** and **Machine Learning** system design and deployment, spanning shared mobility rebalancing, resilient middle-mile network design, automatic life-cycle assessment, and intelligent tutoring systems. 
+<div class="lab-card-grid lab-card-grid--three">
+  <article class="lab-card">
+    <span class="lab-card__number">01</span>
+    <h3>AI + Optimization</h3>
+    <p>Learning-augmented and generative-AI methods for combinatorial optimization and sequential decision-making.</p>
+  </article>
+  <article class="lab-card">
+    <span class="lab-card__number">02</span>
+    <h3>Mobility + Logistics</h3>
+    <p>Data-driven planning and operations for shared mobility, urban transportation, e-commerce, and supply chains.</p>
+  </article>
+  <article class="lab-card">
+    <span class="lab-card__number">03</span>
+    <h3>Sustainable AI</h3>
+    <p>Life-cycle evaluation and system design that account for the environmental costs and benefits of AI.</p>
+  </article>
+</div>
 
-My research agenda and teaching experiences are summarized below.
+<section class="lab-pi">
+  <img src="{{ '/images/headshot_Zhuoli_2025.jpg' | relative_url }}" alt="Zhuoli Yin" class="lab-pi__photo">
+  <div>
+    <p class="lab-eyebrow">PRINCIPAL INVESTIGATOR</p>
+    <h2>Zhuoli Yin</h2>
+    <p>Zhuoli Yin develops AI-augmented optimization systems for transportation, logistics, and sustainable computing. His work spans the full research lifecycle—from problem formulation and algorithm design to large-scale simulation and deployment.</p>
+    <p>He earned his Ph.D. and M.S. in Industrial Engineering from Purdue University and his B.E. in Electronic and Information Engineering from Beihang University.</p>
+    <p><a href="{{ '/pdf/Zhuoli_Yin_Academic_CV.pdf' | relative_url }}">Curriculum vitae</a> · <a href="https://scholar.google.com/citations?user=Zu69_1AAAAAJ">Google Scholar</a> · <a href="mailto:{{ site.author.email }}">Email</a></p>
+  </div>
+</section>
 
-![research_teaching_summary](../images/research_teaching_summary.png)
-
-
-[[CV (Feb-18-2026)]](../pdf/Zhuoli_Yin_Academic_CV_Feb_18_2026.pdf)
-
-
-<span style="color:red; font-weight:bold; font-size:1.05em">
-🚀 If you are interested in collaborating on these exciting topics, please feel free to reach out.
-</span>
+<aside class="lab-callout">
+  <div>
+    <p class="lab-eyebrow">JOIN US</p>
+    <h2>Curious minds are welcome.</h2>
+    <p>We welcome prospective Ph.D., master's, and undergraduate students who want to work at the intersection of AI, optimization, and real-world systems.</p>
+  </div>
+  <a class="lab-button lab-button--light" href="{{ '/prospective-students/' | relative_url }}">For prospective students</a>
+</aside>
 
 
 # 🔥 News

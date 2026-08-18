@@ -1,37 +1,16 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "Research"
+    url: "/research/"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Prospective Students"
+    url: "/prospective-students/"
 
   - title: "News"
     url: "/#-news"
     
-  - title: "Research"
-    url: "/research/"
-    
-  # - title: "Publications"
-    # url: "/#-publications"
-    
-  - title: "Internships"
-    url: "/#-internships"
-    
-  - title: "Selected Awards"
-    url: "/#-selected-awards"
-    
   - title: "Teaching"
     url: "/teaching/"
-
-  # - title: "Mentorship"
-  # url: "/#-mentorship"
-
-  - title: "Services"
-    url: "/#-services"
-    
-  # - title: "Educations"
-  #   url: "/#-educations"
-
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
-
-  # - title: "new"       # <--- add new tab
-    # url: "/new/"

@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhuoli Yin"
-description              : "Ph.D. Candidate in Industrial Engineering at Purdue University"
+title                    : "Yin Research Lab"
+description              : "AI-augmented optimization for transportation, logistics, and sustainable systems"
 repository               : "ZhuoliYin/zhuoliyin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -30,12 +30,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhuoli Yin"
   avatar           : "images/headshot_Zhuoli_2025.jpg"
-  bio              : "Purdue University"
-  location         : "West Lafayette, IN, USA"
+  bio              : "Principal Investigator"
+  location         : "United States"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Zu69_1AAAAAJ"
-  email            : "zhuoliyin@purdue.edu"
+  email            : "zyin@sc.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
