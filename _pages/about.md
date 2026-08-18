@@ -21,7 +21,7 @@ redirect_from:
 
 <section class="lab-section">
   <div class="lab-section__heading">
-    <p class="lab-eyebrow">OUR MISSION</p>
+    <p class="lab-eyebrow lab-eyebrow--editorial">Our mission</p>
     <h2>Decision intelligence that works beyond the benchmark</h2>
   </div>
   <div class="lab-section__copy">

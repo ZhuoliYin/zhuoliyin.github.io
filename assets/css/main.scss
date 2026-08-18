@@ -57,6 +57,15 @@ $usc-sandstorm: #fff2e3;
   text-transform: uppercase;
 }
 
+.lab-eyebrow--editorial {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.92rem !important;
+  font-weight: 400;
+  font-style: italic;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
 .lab-hero,
 .lab-page-hero {
   position: relative;
@@ -213,6 +222,17 @@ $usc-sandstorm: #fff2e3;
   display: block;
   margin: 0 0 1.2rem !important;
   color: $usc-garnet;
+}
+
+.lab-card__number {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.92rem !important;
+  font-weight: 400;
+  font-style: italic;
+  letter-spacing: 0;
+}
+
+.lab-card__label {
   font-size: 0.76rem !important;
   font-weight: 800;
   letter-spacing: 0.12em;
@@ -280,6 +300,85 @@ $usc-sandstorm: #fff2e3;
 
 .lab-note h3 {
   margin-top: 0;
+}
+
+.lab-application {
+  margin: 3rem 0;
+  padding: clamp(1.5rem, 4vw, 2.5rem);
+  border: 1px solid $usc-gray-10;
+  border-top: 5px solid $usc-garnet;
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 0 12px 30px rgba(54, 54, 54, 0.06);
+}
+
+.lab-application > h2 {
+  margin-top: 0;
+  color: $usc-black-90;
+  font-size: clamp(1.5rem, 3vw, 2.1rem);
+}
+
+.lab-application__lead {
+  max-width: 780px;
+  color: $usc-warm-gray;
+  font-size: 1.05rem !important;
+  line-height: 1.65;
+}
+
+.lab-actions--application {
+  margin: 1.4rem 0 2rem;
+}
+
+.lab-button--garnet {
+  background: $usc-garnet;
+  color: #fff !important;
+}
+
+.lab-button--outline-garnet {
+  border-color: $usc-garnet !important;
+  color: $usc-garnet !important;
+}
+
+.lab-step {
+  display: grid;
+  grid-template-columns: 2.2rem minmax(0, 1fr);
+  gap: 1rem;
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid $usc-gray-10;
+}
+
+.lab-step__number {
+  display: inline-flex;
+  width: 2.2rem;
+  height: 2.2rem;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: $usc-garnet;
+  color: #fff;
+  font-weight: 800;
+}
+
+.lab-step h3 {
+  margin: 0 0 0.65rem;
+  color: $usc-black-90;
+}
+
+.lab-deadlines {
+  margin-top: 1.5rem;
+  padding: 1.2rem 1.3rem;
+  border-radius: 12px;
+  background: $usc-sandstorm;
+}
+
+.lab-deadlines h3 {
+  margin-top: 0;
+  color: $usc-garnet;
+}
+
+.lab-deadlines p:last-child {
+  margin-bottom: 0;
 }
 
 @media (min-width: 720px) {
