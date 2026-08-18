@@ -81,9 +81,9 @@ $usc-sandstorm: #fff2e3;
   padding: 0;
   border: 0;
   color: $usc-black-90;
-  font-size: clamp(2rem, 4.5vw, 3.4rem);
-  letter-spacing: -0.035em;
-  line-height: 1.06;
+  font-size: $type-size-3;
+  letter-spacing: normal;
+  line-height: 1.2;
 }
 
 .page__content a.lab-home-heading__logo-link {
