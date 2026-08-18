@@ -66,6 +66,40 @@ $usc-sandstorm: #fff2e3;
   text-transform: none;
 }
 
+.lab-home-heading {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(210px, 300px);
+  gap: clamp(1.5rem, 4vw, 3.5rem);
+  align-items: center;
+  margin: 0 0 2.5rem;
+  padding: 0.75rem 0 1.75rem;
+  border-bottom: 1px solid $usc-gray-10;
+}
+
+.page__content .lab-home-heading h1 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: $usc-black-90;
+  font-size: clamp(2rem, 4.5vw, 3.4rem);
+  letter-spacing: -0.035em;
+  line-height: 1.06;
+}
+
+.page__content a.lab-home-heading__logo-link {
+  display: block;
+  justify-self: end;
+  text-decoration: none;
+}
+
+.lab-home-heading__logo-link img {
+  display: block;
+  width: 100%;
+  max-width: 280px;
+  height: auto;
+  margin: 0;
+}
+
 .lab-hero,
 .lab-page-hero {
   position: relative;
@@ -423,6 +457,19 @@ $usc-sandstorm: #fff2e3;
 }
 
 @media (max-width: 719px) {
+  .lab-home-heading {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  .page__content a.lab-home-heading__logo-link {
+    justify-self: start;
+  }
+
+  .lab-home-heading__logo-link img {
+    max-width: 230px;
+  }
+
   .lab-hero,
   .lab-page-hero {
     margin-right: -1rem;

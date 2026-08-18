@@ -17,7 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<h1>Yin Research Lab at the University of South Carolina</h1>
+<header class="lab-home-heading">
+  <h1>Yin Research Lab at the University of South Carolina</h1>
+  <a class="lab-home-heading__logo-link" href="https://sc.edu/study/colleges_schools/engineering_and_computing/" aria-label="Visit the Molinaroli College of Engineering and Computing website">
+    <img src="{{ '/images/USC_Molinaroli_logo_centered_RGB_2C.png' | relative_url }}" alt="University of South Carolina Molinaroli College of Engineering and Computing">
+  </a>
+</header>
 
 <section class="lab-section">
   <div class="lab-section__heading">
