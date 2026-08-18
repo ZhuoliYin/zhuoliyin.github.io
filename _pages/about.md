@@ -57,9 +57,11 @@ redirect_from:
   <div>
     <p class="lab-eyebrow">PRINCIPAL INVESTIGATOR</p>
     <h2>Zhuoli Yin</h2>
+    <p class="lab-pi__affiliation"><strong>Assistant Professor</strong><br>Industrial Engineering Program, Department of Mechanical Engineering<br>University of South Carolina</p>
     <p>Zhuoli Yin develops AI-augmented optimization systems for transportation, logistics, and sustainable computing. His work spans the full research lifecycle—from problem formulation and algorithm design to large-scale simulation and deployment.</p>
     <p>He earned his Ph.D. and M.S. in Industrial Engineering from Purdue University and his B.E. in Electronic and Information Engineering from Beihang University.</p>
-    <p><a href="{{ '/pdf/Zhuoli_Yin_Academic_CV.pdf' | relative_url }}">Curriculum vitae</a> · <a href="https://scholar.google.com/citations?user=Zu69_1AAAAAJ">Google Scholar</a> · <a href="mailto:{{ site.author.email }}">Email</a></p>
+    <p><a href="{{ '/pdf/Zhuoli_Yin_Academic_CV.pdf' | relative_url }}">Curriculum vitae</a> · <a href="https://scholar.google.com/citations?user=Zu69_1AAAAAJ">Google Scholar</a></p>
+    <p><strong>Office:</strong> {{ site.author.office }} · <strong>Address:</strong> {{ site.author.address }}<br><strong>Email:</strong> {{ site.author.email_display }}</p>
   </div>
 </section>
 

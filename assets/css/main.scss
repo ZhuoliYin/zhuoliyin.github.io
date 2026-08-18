@@ -266,6 +266,17 @@ $usc-sandstorm: #fff2e3;
   object-fit: cover;
 }
 
+.lab-pi__affiliation {
+  margin: 0.45rem 0 1rem !important;
+  color: $usc-warm-gray;
+  line-height: 1.55;
+}
+
+.lab-pi__affiliation strong {
+  color: $usc-black-90;
+  font-weight: 700;
+}
+
 .lab-callout {
   display: flex;
   flex-direction: column;
@@ -289,6 +300,16 @@ $usc-sandstorm: #fff2e3;
   flex: 0 0 auto;
   background: #fff;
   color: $usc-garnet !important;
+}
+
+.lab-contact-text {
+  flex: 0 0 auto;
+  margin: 0 !important;
+  padding: 0.72rem 1.15rem;
+  border-radius: 999px;
+  background: #fff;
+  color: $usc-garnet !important;
+  font-weight: 700;
 }
 
 .lab-note {

@@ -31,11 +31,14 @@ author:
   name             : "Zhuoli Yin"
   avatar           : "images/headshot_Zhuoli_2025.jpg"
   bio              : "Principal Investigator"
-  location         : "United States"
+  location         : "Columbia, SC, USA"
+  office           : "C113C"
+  address          : "300 Main St, Columbia, SC 29201"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Zu69_1AAAAAJ"
-  email            : "zyin@sc.edu"
+  email            :
+  email_display    : "zyin at purdue dot edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

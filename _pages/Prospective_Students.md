@@ -81,7 +81,7 @@ Our group is especially interested in students who want to explore one or more o
         <li>Contact information for three references; letters will be requested from finalists</li>
         <li>Optional links to publications, code repositories, or a portfolio</li>
       </ul>
-      <p>Shortlisted candidates will be contacted for a virtual or in-person interview. Questions may be sent to <a href="mailto:zyin@sc.edu?subject=Prospective%20PhD%20student">zyin@sc.edu</a> with the subject <strong>“Prospective PhD student”</strong>.</p>
+      <p>Shortlisted candidates will be contacted for a virtual or in-person interview. Questions may be sent to <strong>{{ site.author.email_display }}</strong> with the subject <strong>“Prospective PhD student”</strong>.</p>
     </div>
   </div>
 
@@ -103,7 +103,7 @@ Our group is especially interested in students who want to explore one or more o
 
 ## Master's, undergraduate, remote, and internship inquiries
 
-For opportunities other than the Ph.D. program, contact [Zhuoli Yin](mailto:zyin@sc.edu) directly at **[zyin@sc.edu](mailto:zyin@sc.edu)** with the subject line **“Prospective Opportunity — [Master's/Undergraduate/Remote/Internship] — [Your Name]”**. Please attach:
+For opportunities other than the Ph.D. program, contact Zhuoli Yin directly at **{{ site.author.email_display }}** with the subject line **“Prospective Opportunity — [Master's/Undergraduate/Remote/Internship] — [Your Name]”**. Please attach:
 
 1. Your **CV**
 2. A **short research statement** describing your research interests, relevant preparation, and why you would like to work with our lab
@@ -120,5 +120,5 @@ In the email body, briefly introduce yourself and identify the degree or opportu
     <p class="lab-eyebrow">OTHER OPPORTUNITIES</p>
     <h2>Tell us what you want to investigate.</h2>
   </div>
-  <a class="lab-button lab-button--light" href="mailto:zyin@sc.edu?subject=Prospective%20Opportunity%20Inquiry">Email the lab</a>
+  <p class="lab-contact-text">{{ site.author.email_display }}</p>
 </aside>
