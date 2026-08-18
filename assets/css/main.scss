@@ -68,8 +68,8 @@ $usc-sandstorm: #fff2e3;
 
 .lab-home-heading {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(210px, 300px);
-  gap: clamp(1.5rem, 4vw, 3.5rem);
+  grid-template-columns: minmax(0, 1fr) 150px;
+  gap: clamp(1rem, 2.5vw, 2rem);
   align-items: center;
   margin: 0 0 2.5rem;
   padding: 0.75rem 0 1.75rem;
@@ -95,7 +95,7 @@ $usc-sandstorm: #fff2e3;
 .lab-home-heading__logo-link img {
   display: block;
   width: 100%;
-  max-width: 280px;
+  max-width: 140px;
   height: auto;
   margin: 0;
 }
@@ -467,7 +467,7 @@ $usc-sandstorm: #fff2e3;
   }
 
   .lab-home-heading__logo-link img {
-    max-width: 230px;
+    max-width: 110px;
   }
 
   .lab-hero,
