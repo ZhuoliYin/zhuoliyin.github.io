@@ -17,15 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<section class="lab-hero">
-  <p class="lab-eyebrow">OPERATIONS RESEARCH · RESPONSIBLE AI · SUSTAINABLE SYSTEMS</p>
-  <h1>Yin Research Lab</h1>
-  <p class="lab-hero__lead">We build AI-augmented optimization systems that help people make better decisions in transportation, logistics, and other complex engineered systems.</p>
-  <div class="lab-actions">
-    <a class="lab-button lab-button--primary" href="{{ '/research/' | relative_url }}">Explore our research</a>
-    <a class="lab-button lab-button--secondary" href="{{ '/prospective-students/' | relative_url }}">Join the lab</a>
-  </div>
-</section>
+<h1>Yin Research Lab at the University of South Carolina</h1>
 
 <section class="lab-section">
   <div class="lab-section__heading">
@@ -52,6 +44,10 @@ redirect_from:
     <p>Life-cycle evaluation and system design that account for the environmental costs and benefits of AI.</p>
   </article>
 </div>
+
+<figure class="lab-summary-figure">
+  <img src="{{ '/images/research_teaching_summary.png' | relative_url }}" alt="Overview of the lab's research methodology, application areas, responsible AI work, and teaching philosophy">
+</figure>
 
 <section class="lab-pi">
   <img src="{{ '/images/headshot_Zhuoli_2025.jpg' | relative_url }}" alt="Zhuoli Yin" class="lab-pi__photo">
