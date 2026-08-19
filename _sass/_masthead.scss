@@ -57,9 +57,10 @@
 }
 
 .masthead__brand-logo {
-  width: 28px;
-  height: 28px;
-  flex: 0 0 28px;
+  width: 24px;
+  height: 24px;
+  max-width: 24px;
+  flex: 0 0 24px;
   object-fit: contain;
 }
 
@@ -73,4 +74,3 @@
     font-weight: 700;
   }
 }
-
