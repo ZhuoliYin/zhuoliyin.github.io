@@ -47,6 +47,7 @@ $usc-black-90: #363636;
 $usc-warm-gray: #676156;
 $usc-gray-10: #ececec;
 $usc-sandstorm: #fff2e3;
+$usc-horseshoe: #65780b;
 
 .lab-eyebrow {
   margin: 0 0 0.7rem !important;
@@ -313,7 +314,14 @@ $usc-sandstorm: #fff2e3;
 
 .lab-recruitment-notice {
   margin: -1.5rem 0 3rem;
+  color: $usc-horseshoe;
+  font-weight: 700;
   text-align: center;
+}
+
+.page__content .lab-recruitment-notice a {
+  color: inherit !important;
+  font-weight: inherit;
 }
 
 .lab-callout {
