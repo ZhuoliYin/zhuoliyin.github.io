@@ -70,6 +70,8 @@ redirect_from:
   </div>
 </section>
 
+<p class="lab-recruitment-notice">Yin Lab is looking for highly motivated PhD students starting from Spring or Fall 2027. Please check <a href="{{ '/prospective-students/' | relative_url }}">Prospective Students</a>.</p>
+
 <aside class="lab-callout">
   <div>
     <p class="lab-eyebrow">JOIN US</p>
