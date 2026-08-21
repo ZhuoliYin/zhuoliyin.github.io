@@ -70,16 +70,7 @@ redirect_from:
   </div>
 </section>
 
-<p class="lab-recruitment-notice">Yin Lab is looking for highly motivated PhD students starting from Spring or Fall 2027. Please check <a href="{{ '/prospective-students/' | relative_url }}">Prospective Students</a>.</p>
-
-<aside class="lab-callout">
-  <div>
-    <p class="lab-eyebrow">JOIN US</p>
-    <h2>Curious minds are welcome.</h2>
-    <p>We welcome prospective Ph.D., master's, and undergraduate students who want to work at the intersection of AI, optimization, and real-world systems.</p>
-  </div>
-  <a class="lab-button lab-button--light" href="{{ '/prospective-students/' | relative_url }}">For prospective students</a>
-</aside>
+<p class="lab-recruitment-notice">Yin Lab is looking for highly motivated PhD students starting from Spring or Fall 2027. Please check <a href="{{ '/prospective-students/' | relative_url }}">Prospective Students</a>.<span class="lab-recruitment-notice__secondary"> We also welcome prospective master's, undergraduate students and remote internship who want to work at the intersection of AI, optimization, and real-world systems.</span></p>
 
 
 # 🔥 News
