@@ -8,8 +8,6 @@ currently:
     value: "Columbia, South Carolina"
   - label: "Cooking"
     value: "Something new every weekend"
-  - label: "Playing"
-    value: "Stardew Valley, one more season"
   - label: "Training"
     value: "Strength, steadily"
 
@@ -21,12 +19,6 @@ interests:
   - mark: "🏋️"
     title: "Fitness"
     text: "A fitness beginner who is trying hard. Lifting taught me the same lesson as research: small, consistent progress compounds."
-  - mark: "🌾"
-    title: "Stardew Valley farmer"
-    text: "My favorite way to optimize something that does not need optimizing."
-  - mark: "🐾"
-    title: "Nature and animals"
-    text: "Happiest outdoors, and always stopping to say hello to a dog."
 
 # Photos. Put image files in /images/life/ (resize to about 1600px wide first), then list them here.
 # Example:
