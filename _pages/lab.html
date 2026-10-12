@@ -1,0 +1,33 @@
+---
+layout: page
+title: "Lab resources"
+permalink: /lab/
+noindex: true
+description: "Internal resources for members of the Yin Research Lab."
+lede: "Guides, tools, and templates for members of the Yin Research Lab."
+---
+<div id="lab-gate" class="gate">
+  <h2>Members only</h2>
+  <p>Sign in with the username and passphrase Zhuoli sent you. Not in the lab yet? See <a href="{{ '/prospective-students/' | relative_url }}">Join the lab</a>.</p>
+  <form id="lab-form" autocomplete="on">
+    <div class="field">
+      <label for="lab-username">Username</label>
+      <input id="lab-username" name="username" type="text" autocomplete="username" autocapitalize="none" spellcheck="false" required>
+    </div>
+    <div class="field">
+      <label for="lab-passphrase">Passphrase</label>
+      <input id="lab-passphrase" name="passphrase" type="password" autocomplete="current-password" required>
+    </div>
+    <label class="check"><input type="checkbox" name="remember" checked> Keep me signed in on this device</label>
+    <button id="lab-submit" class="btn" type="submit">Unlock</button>
+  </form>
+  <p id="lab-error" class="gate__error" role="alert"></p>
+</div>
+
+<div id="lab-view" hidden>
+  <div class="vault-bar"><span id="lab-updated"></span><button id="lab-lock" type="button">Sign out</button></div>
+  <div id="lab-content"></div>
+</div>
+
+<script type="application/json" id="lab-vault">{{ site.data.lab_vault | jsonify }}</script>
+<script src="{{ '/assets/js/lab.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>

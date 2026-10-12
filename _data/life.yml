@@ -1,0 +1,36 @@
+# Content for the Life page (/life/). Edit freely; every list can be shortened or extended.
+
+intro: "Research is a big part of my life, but not all of it. This page is where I keep the rest: what I'm cooking, what I'm training for, and the small things that make a new city feel like home."
+
+# A few things you're up to right now. Shown as a compact grid at the top.
+currently:
+  - label: "Living in"
+    value: "Columbia, South Carolina"
+  - label: "Cooking"
+    value: "Something new every weekend"
+  - label: "Playing"
+    value: "Stardew Valley, one more season"
+  - label: "Training"
+    value: "Strength, steadily"
+
+# Longer notes. `mark` is a single emoji or character shown beside each item.
+interests:
+  - mark: "🍳"
+    title: "Food and cooking"
+    text: "Cooking is how I unwind after a long week. I like learning a dish properly, then making it my own."
+  - mark: "🏋️"
+    title: "Fitness"
+    text: "A fitness beginner who is trying hard. Lifting taught me the same lesson as research: small, consistent progress compounds."
+  - mark: "🌾"
+    title: "Stardew Valley farmer"
+    text: "My favorite way to optimize something that does not need optimizing."
+  - mark: "🐾"
+    title: "Nature and animals"
+    text: "Happiest outdoors, and always stopping to say hello to a dog."
+
+# Photos. Put image files in /images/life/ (resize to about 1600px wide first), then list them here.
+# Example:
+#   - src: "/images/life/congaree-hike.jpg"
+#     alt: "Boardwalk through the forest at Congaree National Park"
+#     caption: "Congaree National Park, Oct 2026"
+photos: []

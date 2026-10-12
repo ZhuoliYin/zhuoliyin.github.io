@@ -1,33 +1,72 @@
----
-layout: compress
----
-
 <!doctype html>
-<html lang="en" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if page.title and page.title != "" %}{% assign doc_title = page.title | append: " | Zhuoli Yin" %}{% else %}{% assign doc_title = "Zhuoli Yin | University of South Carolina" %}{% endif %}
+  {% assign doc_desc = page.description | default: site.description %}
+  <title>{{ doc_title }}</title>
+  <meta name="description" content="{{ doc_desc | strip_html | strip_newlines | escape }}">
+  <meta name="author" content="Zhuoli Yin">
+  {% if page.noindex %}<meta name="robots" content="noindex, nofollow">{% endif %}
+  <meta property="og:site_name" content="Zhuoli Yin">
+  <meta property="og:title" content="{{ doc_title | escape }}">
+  <meta property="og:description" content="{{ doc_desc | strip_html | strip_newlines | escape }}">
+  <meta property="og:image" content="{{ '/images/headshot_Zhuoli_2025.jpg' | absolute_url }}">
+  <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | absolute_url }}">
 
-  <body>
+  <link rel="icon" type="image/png" sizes="96x96" href="{{ '/site-icon.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/apple-touch-icon.png?v=20260720-2' | relative_url }}">
+  <link rel="manifest" href="{{ '/images/site.webmanifest?v=20260720-2' | relative_url }}">
+  <meta name="theme-color" content="#fafaf8">
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+  {% if page.math %}<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML" async></script>{% endif %}
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
 
-    <div id="main" role="main">
-      {% include sidebar.html %}
-    
-      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-        <div class="page__inner-wrap">
-          <section class="page__content" itemprop="text">
-            {{ content }}
-          </section>
-        </div>
-      </article>
+  <header class="site-header">
+    <div class="wrap site-header__inner">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <img src="{{ '/images/brand-logo-black.png' | relative_url }}" width="26" height="26" alt="">
+        <span>Zhuoli Yin</span>
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+      <nav id="site-nav" class="site-nav" aria-label="Main">
+        <ul>
+          {% for link in site.data.navigation.main %}
+          {% assign link_url = link.url | relative_url %}
+          <li><a href="{{ link_url }}"{% if page.url == link.url %} aria-current="page"{% endif %}{% if link.locked %} class="site-nav__locked"{% endif %}>{{ link.title }}{% if link.locked %}<svg viewBox="0 0 16 16" width="12" height="12" aria-label="members only" role="img"><path d="M4.5 7V5a3.5 3.5 0 0 1 7 0v2" fill="none" stroke="currentColor" stroke-width="1.4"/><rect x="3" y="7" width="10" height="7.5" rx="1.5" fill="currentColor"/></svg>{% endif %}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
     </div>
+  </header>
 
-    {% include scripts.html %}
+  <main id="content">
+    {{ content }}
+  </main>
 
-  </body>
+  <footer class="site-footer">
+    <div class="wrap site-footer__inner">
+      <div>
+        <p class="site-footer__name">Zhuoli Yin</p>
+        <p>Yin Research Lab<br>Department of Mechanical Engineering<br>University of South Carolina</p>
+      </div>
+      <div>
+        <p>Office {{ site.author.office }}<br>{{ site.author.address }}</p>
+        <p><a class="js-email" href="#" data-user="zyin" data-domain="sc.edu">{{ site.author.email_display }}</a></p>
+      </div>
+      <p class="site-footer__fine">&copy; {{ site.time | date: '%Y' }} Zhuoli Yin</p>
+    </div>
+  </footer>
+
+  <script src="{{ '/assets/js/site.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+  {% assign visitor_map = site.visitor_map %}
+  {% if visitor_map and visitor_map.enabled and visitor_map.script_src %}
+  <div hidden aria-hidden="true"><script id="{{ visitor_map.script_id | default: 'visitor-map-script' }}" src="{{ visitor_map.script_src }}"></script></div>
+  {% endif %}
+  {% if site.google_analytics_id %}{% include analytics.html %}{% endif %}
+</body>
 </html>

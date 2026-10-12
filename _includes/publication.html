@@ -1,0 +1,11 @@
+{%- assign p = include.pub -%}
+<li class="pub">
+  <h3 class="pub__title">{{ p.title }}</h3>
+  <div class="pub__authors">{{ p.authors | markdownify }}</div>
+  <p class="pub__venue">{% if p.status %}<span class="pub__tag">{{ p.status }}</span>, {% elsif p.venue_short %}<span class="pub__tag">{{ p.venue_short }}</span>, {% endif %}<em>{{ p.venue }}</em>, {{ p.year }}</p>
+  {%- if p.links %}
+  <ul class="pub__links">
+    {%- for l in p.links %}<li><a href="{{ l.url }}">{{ l.label }}</a></li>{% endfor %}
+  </ul>
+  {%- endif %}
+</li>

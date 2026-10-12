@@ -1,0 +1,35 @@
+# Newest first. `text` accepts Markdown. Set `highlight: true` to emphasize an item.
+# The homepage shows the first `site.news_on_home` items and folds the rest.
+- date: 2026-08
+  highlight: true
+  text: "I joined the University of South Carolina as an Assistant Professor and am recruiting Ph.D. students to join my research lab."
+- date: 2026-07
+  text: "I defended my Ph.D. thesis, *Learning-Augmented Optimization Systems*. Many thanks to my advisor, Dr. Hua Cai, and my advisory committee."
+- date: 2026-05
+  text: "At the 2026 IISE Annual Conference in Arlington, TX, I presented my latest work on the sustainable use of AI for optimization and joined the panel *Does AI Belong at the Sustainability Table? A Live Multi-AI Panel on Technology, Conscience, and Climate*."
+- date: 2026-03
+  text: "I received the [Estus H. and Vashti L. Magoon Research Excellence Award](https://engineering.purdue.edu/Engr/People/Awards/Graduate/ptRecipientListing?group_id=237384&show_sub_groups=1) from the College of Engineering at Purdue University."
+- date: 2026-01
+  text: "Our paper on [VLM-guided optimization for large-scale TSP](https://arxiv.org/abs/2509.23465) was accepted to [ICLR 2026](https://iclr.cc/)."
+- date: 2026-01
+  text: "Our paper [Arthur: An Artificial Intelligence Powered Teaching Assistant System for Engineering Economics Class](https://doi.org/10.1016/j.ijaied.2026.100003) was published in the *International Journal of Artificial Intelligence in Education*."
+- date: 2025-08
+  text: "Our paper [Enhanced global oil spill dataset from 1967 to 2023 based on text-form incident information](https://www.nature.com/articles/s41597-025-05601-9) was published in *Scientific Data*."
+- date: 2025-06
+  text: "I joined Amazon as an applied scientist intern in New York City."
+- date: 2025-05
+  text: "I presented three works at the IISE Annual Conference 2025."
+- date: 2025-04
+  text: "I received a Graduate Research Grant from Purdue's Institute for a Sustainable Future to support my research on the carbon footprint of AI models."
+- date: 2025-04
+  text: "I passed my Ph.D. preliminary exam."
+- date: 2024-10
+  text: "I was selected as a 2024–2025 IISE Future Faculty Fellow, mentored by [Prof. Uday Venkatadri](https://www.dal.ca/faculty/engineering/industrial/faculty-staff/our-faculty1/professors/uday-venkatadri.html)."
+- date: 2024-08
+  text: "I attended the [NSF Workshop on Sustainable Computing](https://nsf-desc-2024.github.io/) at Purdue."
+- date: 2023-10
+  text: "I received the 2023–2024 Lee A. Chaden Fellowship in Industrial Engineering at Purdue."
+- date: 2023-09
+  text: "*Purdue Today* featured our story on [Arthur](https://www.purdue.edu/studentsuccess/news/09_07_23.html), an AI-powered teaching assistant for engineering education."
+- date: 2023-08
+  text: "I lectured IE 343 Engineering Economics to about 150 undergraduate students."

@@ -1,0 +1,54 @@
+# Newest first. `authors` accepts Markdown; keep your own name in **bold**.
+# `selected: true` puts a paper on the homepage. `status` is optional (e.g., Preprint, Under review).
+- title: "ViTSP: A Vision Language Models Guided Framework for Large-Scale Traveling Salesman Problems"
+  authors: "**Zhuoli Yin**, Yi Ding, Reem Khir, Hua Cai"
+  venue: "International Conference on Learning Representations (ICLR)"
+  venue_short: "ICLR 2026"
+  year: 2026
+  selected: true
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2509.23465"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2509.23465"
+- title: "Arthur: An Artificial Intelligence Powered Teaching Assistant System for Engineering Economics Class"
+  authors: "**Zhuoli Yin**, Erhan Karakaya, Kalei Bass, Hua Cai"
+  venue: "International Journal of Artificial Intelligence in Education"
+  venue_short: "IJAIED 2026"
+  year: 2026
+  selected: true
+  links:
+    - label: "Article"
+      url: "https://doi.org/10.1016/j.ijaied.2026.100003"
+- title: "DeepBike: A Deep Reinforcement Learning Based Model for Large-Scale Online Bike Share Rebalancing"
+  authors: "**Zhuoli Yin**, Zhaoyu Kou, Hua Cai"
+  venue: "Research Square preprint"
+  status: "Preprint"
+  year: 2025
+  selected: true
+  links:
+    - label: "PDF"
+      url: "https://assets-eu.researchsquare.com/files/rs-3998473/v1_covered_2f3e5b57-935c-4d98-9d01-907b9a688ef0.pdf"
+- title: "Enhanced global oil spill dataset from 1967 to 2023 based on text-form incident information"
+  authors: "Yiming Liu, **Zhuoli Yin**, Hua Cai"
+  venue: "Scientific Data, 12(1)"
+  venue_short: "Scientific Data 2025"
+  year: 2025
+  selected: true
+  links:
+    - label: "Article"
+      url: "https://www.nature.com/articles/s41597-025-05601-9"
+- title: "Understanding the Demand Predictability of Bike Share Systems: A Station-Level Analysis"
+  authors: "**Zhuoli Yin**, Kendrick Hardaway, Yu Feng, Zhaoyu Kou, Hua Cai"
+  venue: "Frontiers of Engineering Management"
+  year: 2023
+  links:
+    - label: "Article"
+      url: "https://link.springer.com/article/10.1007/s42524-023-0279-8"
+- title: "A Deep Reinforcement Learning Model for Large-Scale Dynamic Bike Share Rebalancing with Spatial-Temporal Context"
+  authors: "**Zhuoli Yin**, Zhaoyu Kou, Hua Cai"
+  venue: "The 12th International Workshop on Urban Computing (UrbComp)"
+  year: 2023
+  links:
+    - label: "PDF"
+      url: "http://urban-computing.com/urbcomp2023/file/UrbComp2023_paper_7.pdf"

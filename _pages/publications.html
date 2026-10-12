@@ -1,0 +1,14 @@
+---
+layout: page
+title: "Publications"
+permalink: /publications/
+lede: "Papers and preprints, newest first. For citation counts, see my Google Scholar profile."
+---
+{% assign by_year = site.data.publications | group_by: "year" | sort: "name" | reverse %}
+{% for group in by_year %}
+<h2 class="pub-year">{{ group.name }}</h2>
+<ul class="pubs">
+  {% for pub in group.items %}{% include publication.html pub=pub %}{% endfor %}
+</ul>
+{% endfor %}
+<p class="section__more"><a href="{{ site.author.googlescholar }}">Google Scholar profile</a></p>

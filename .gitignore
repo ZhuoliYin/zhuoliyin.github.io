@@ -1,3 +1,6 @@
 _site/
 push.sh
 .DS_Store
+
+# Lab resources: readable source and member passphrases stay on this computer only
+_private/

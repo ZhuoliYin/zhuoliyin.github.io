@@ -1,16 +1,15 @@
-# main links links
+# Top navigation. Add `locked: true` to show a small lock next to members-only pages.
 main:
   - title: "Research"
     url: "/research/"
-
   - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Prospective Students"
-    url: "/prospective-students/"
-
-  - title: "News"
-    url: "/#-news"
-    
+    url: "/publications/"
   - title: "Teaching"
     url: "/teaching/"
+  - title: "Join the lab"
+    url: "/prospective-students/"
+  - title: "Life"
+    url: "/life/"
+  - title: "Lab resources"
+    url: "/lab/"
+    locked: true

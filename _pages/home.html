@@ -1,0 +1,133 @@
+---
+layout: default
+permalink: /
+title: ""
+description: "Zhuoli Yin is an Assistant Professor of Industrial Engineering at the University of South Carolina, working on AI-augmented optimization for transportation, logistics, and sustainable computing."
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+<section class="hero">
+  {% include tour.svg %}
+  <div class="wrap hero__inner">
+    <img class="hero__photo" src="{{ '/images/headshot_Zhuoli_2025.jpg' | relative_url }}" alt="Portrait of Zhuoli Yin" width="440" height="550">
+    <div class="hero__text">
+      <h1>Zhuoli Yin</h1>
+      <p class="hero__role">Assistant Professor, Industrial Engineering Program
+        <span>Department of Mechanical Engineering, University of South Carolina</span></p>
+      <div class="hero__bio">
+        <p>I build AI-augmented optimization systems for transportation, logistics, and sustainable computing, carrying the work from problem formulation and algorithm design to large-scale simulation and deployment. I lead the Yin Research Lab at USC.</p>
+        <p>I received my Ph.D. and M.S. in Industrial Engineering from Purdue University, advised by Prof. Hua Cai, and my B.E. in Electronic and Information Engineering from Beihang University.</p>
+      </div>
+      <ul class="hero__links">
+        <li><a class="js-email" href="#" data-user="zyin" data-domain="sc.edu">Email</a></li>
+        <li><a href="{{ '/pdf/Zhuoli_Yin_Academic_CV.pdf' | relative_url }}">CV</a></li>
+        <li><a href="{{ site.author.googlescholar }}">Google Scholar</a></li>
+        <li><a href="{{ site.author.linkedin }}">LinkedIn</a></li>
+        <li><a href="https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/zhuoli_yin.php">USC profile</a></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<div class="wrap">
+  <aside class="notice" aria-label="Recruiting">
+    <div>
+      <p><strong>I'm recruiting Ph.D. students for Spring and Fall 2027</strong>, with full funding for qualified students.</p>
+      <p>Master's, undergraduate, and remote research interns who want to work across AI, optimization, and real-world systems are welcome too.</p>
+    </div>
+    <a class="btn" href="{{ '/prospective-students/' | relative_url }}">See how to apply</a>
+  </aside>
+
+  <section class="section" id="research" aria-labelledby="research-title">
+    <div class="section__title"><h2 id="research-title">Research</h2></div>
+    <div class="section__body">
+      <p>Our lab works where operations research meets responsible AI. We study how intelligent decision systems generalize to new conditions, operate under finite computational budgets, and deliver net sustainability benefits when deployed at scale.</p>
+      <ul class="themes">
+        <li><h3>AI + optimization</h3><p>Learning-augmented and generative-AI methods for combinatorial optimization and sequential decision-making.</p></li>
+        <li><h3>Mobility + logistics</h3><p>Data-driven planning and operations for shared mobility, urban transportation, e-commerce, and supply chains.</p></li>
+        <li><h3>Sustainable AI systems</h3><p>Life-cycle evaluation and system design that account for the environmental costs and benefits of AI.</p></li>
+      </ul>
+      <figure class="research-figure">
+        <img src="{{ '/images/research_teaching_summary.png' | relative_url }}" alt="Overview of the lab's research methodology, application areas, responsible AI work, and teaching philosophy" loading="lazy">
+      </figure>
+      <p class="section__more"><a href="{{ '/research/' | relative_url }}">More about our research</a></p>
+    </div>
+  </section>
+
+  <section class="section" id="news" aria-labelledby="news-title">
+    <div class="section__title"><h2 id="news-title">News</h2></div>
+    <div class="section__body">
+      {% assign news_shown = 6 %}
+      <ul class="news">
+        {% for item in site.data.news limit: news_shown %}
+        <li{% if item.highlight %} class="is-highlight"{% endif %}><time>{% include month-year.html date=item.date %}</time><div class="news__text">{{ item.text | markdownify }}</div></li>
+        {% endfor %}
+      </ul>
+      {% if site.data.news.size > news_shown %}
+      <details class="more">
+        <summary>Earlier news</summary>
+        <ul class="news">
+          {% for item in site.data.news offset: news_shown %}
+          <li><time>{% include month-year.html date=item.date %}</time><div class="news__text">{{ item.text | markdownify }}</div></li>
+          {% endfor %}
+        </ul>
+      </details>
+      {% endif %}
+    </div>
+  </section>
+
+  <section class="section" id="publications" aria-labelledby="pubs-title">
+    <div class="section__title"><h2 id="pubs-title">Selected publications</h2></div>
+    <div class="section__body">
+      <ul class="pubs">
+        {% for pub in site.data.publications %}{% if pub.selected %}{% include publication.html pub=pub %}{% endif %}{% endfor %}
+      </ul>
+      <p class="section__more"><a href="{{ '/publications/' | relative_url }}">All publications</a> or <a href="{{ site.author.googlescholar }}">Google Scholar</a></p>
+    </div>
+  </section>
+
+  <section class="section" id="experience" aria-labelledby="exp-title">
+    <div class="section__title"><h2 id="exp-title">Industry</h2></div>
+    <div class="section__body">
+      <p class="role">Applied Scientist Intern, Amazon</p>
+      <p class="role__meta">Global Transportation Services, New York, NY, Jun–Sep 2025. Hosted by <a href="https://www.linkedin.com/in/golnush-masghati-amoli-30606592/">Dr. Golnush Amoli</a> and <a href="https://www.linkedin.com/in/kuhana/">Hana Ku</a>.</p>
+      <p>Developed next-generation AI-driven tools for resilient and dynamic transportation network design, leading the full lifecycle from conceptualization and multi-source data analysis to large-scale simulation, model training, and minimum viable product delivery.</p>
+    </div>
+  </section>
+
+  <section class="section" id="awards" aria-labelledby="awards-title">
+    <div class="section__title"><h2 id="awards-title">Awards</h2></div>
+    <div class="section__body">
+      <ul class="facts">
+        <li><time>2026</time><span>Estus H. and Vashti L. Magoon Research Excellence Award, College of Engineering, Purdue University</span></li>
+        <li><time>2025</time><span>IISE Doctoral Colloquium (three participants nominated per department)</span></li>
+        <li><time>2025</time><span>NSF IISE Annual Conference Student Travel Award</span></li>
+        <li><time>2025</time><span>Graduate Research Grant, Institute for a Sustainable Future, Purdue University</span></li>
+        <li><time>2024</time><span>IISE Future Faculty Fellow (15 selected per year)</span></li>
+        <li><time>2023</time><span>Lee A. Chaden Fellowship in Industrial Engineering, Purdue University</span></li>
+        <li><time>2023</time><span>Graduate School Summer Research Grant, Purdue University</span></li>
+        <li><time>2022</time><span>Honorable Mention Poster Award, Purdue Engineering Graduate Showcase</span></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section" id="service" aria-labelledby="service-title">
+    <div class="section__title"><h2 id="service-title">Service</h2></div>
+    <div class="section__body">
+      <h3 class="subhead">Reviewing</h3>
+      <p>Conferences: TRB Annual Meeting 2026, NeurIPS 2025, ISSST 2024. Journals: <em>Journal of Cleaner Production</em>, <em>Networks and Spatial Economics</em>.</p>
+      <h3 class="subhead">Professional societies</h3>
+      <ul class="facts">
+        <li><time>2023</time><span>Support team, Purdue Research Symposium on Operations</span></li>
+        <li><time>2022</time><span>Session chair, IISE Annual Conference &amp; Expo</span></li>
+      </ul>
+      <h3 class="subhead">University</h3>
+      <ul class="facts">
+        <li><time>2023</time><span>Student representative, faculty search committee, Purdue Industrial Engineering</span></li>
+        <li><time>2022–23</time><span>Vice President, Industrial Engineering Graduate Student Organization, Purdue</span></li>
+      </ul>
+    </div>
+  </section>
+</div>

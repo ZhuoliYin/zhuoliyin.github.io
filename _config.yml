@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yin Research Lab"
-description              : "AI-augmented optimization for transportation, logistics, and sustainable systems"
+description              : "Zhuoli Yin, Assistant Professor at the University of South Carolina. AI-augmented optimization for transportation, logistics, and sustainable computing."
 repository               : "ZhuoliYin/zhuoliyin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -76,6 +76,9 @@ include:
   - files
 exclude:
   - docs
+  - scripts
+  - _private
+  - README.md
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"

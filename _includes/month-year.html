@@ -1,0 +1,4 @@
+{%- assign _months = "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec" | split: "," -%}
+{%- assign _parts = include.date | append: "" | split: "-" -%}
+{%- assign _mi = _parts[1] | plus: 0 | minus: 1 -%}
+{{- _months[_mi] }} {{ _parts[0] -}}

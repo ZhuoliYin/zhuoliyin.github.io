@@ -1,0 +1,46 @@
+---
+layout: page
+title: "Life"
+permalink: /life/
+description: "Life outside research: cooking, fitness, games, and the outdoors."
+---
+{% assign life = site.data.life %}
+<p class="page-head__lede" style="margin-top:-0.5rem;margin-bottom:3rem">{{ life.intro }}</p>
+
+<section class="section" aria-labelledby="now-title" style="border-top:1px solid var(--hairline)">
+  <div class="section__title"><h2 id="now-title">Lately</h2></div>
+  <div class="section__body">
+    <ul class="now">
+      {% for item in life.currently %}
+      <li><span class="now__label">{{ item.label }}</span><span class="now__value">{{ item.value }}</span></li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section" aria-labelledby="interests-title">
+  <div class="section__title"><h2 id="interests-title">Off the clock</h2></div>
+  <div class="section__body">
+    <ul class="interests">
+      {% for item in life.interests %}
+      <li><span class="interests__mark" aria-hidden="true">{{ item.mark }}</span><div><h3>{{ item.title }}</h3><p>{{ item.text }}</p></div></li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+{% if life.photos and life.photos.size > 0 %}
+<section class="section" aria-labelledby="photos-title">
+  <div class="section__title"><h2 id="photos-title">Photos</h2></div>
+  <div class="section__body" style="max-width:none">
+    <div class="gallery">
+      {% for photo in life.photos %}
+      <figure>
+        <img src="{{ photo.src | relative_url }}" alt="{{ photo.alt }}" loading="lazy">
+        {% if photo.caption %}<figcaption>{{ photo.caption }}</figcaption>{% endif %}
+      </figure>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
