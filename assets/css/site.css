@@ -416,3 +416,9 @@ details.more[open] > summary { margin-bottom: 0.5rem; }
 /* Research overview figure on the homepage */
 .research-figure { margin: 2rem 0 0; }
 .research-figure img { width: 100%; border-radius: var(--radius); }
+
+/* Watercolor Columbia skyline between the hero and the rest of the homepage */
+.hero:has(+ .skyline) { border-bottom: 0; }
+.skyline { margin-top: -1px; line-height: 0; }
+.skyline img { display: block; width: 100%; max-width: 1400px; height: auto; margin: 0 auto; }
+@media print { .skyline { display: none; } }
