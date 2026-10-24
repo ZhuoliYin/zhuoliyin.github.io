@@ -9,6 +9,12 @@ redirect_from:
 ---
 
 <section class="hero">
+  <div class="skyline" aria-hidden="true">
+    <picture>
+      <source srcset="{{ '/images/skyline-columbia-dark.webp' | relative_url }}" media="(prefers-color-scheme: dark)">
+      <img src="{{ '/images/skyline-columbia.webp' | relative_url }}" alt="" width="2400" height="460" decoding="async">
+    </picture>
+  </div>
   {% include tour.svg %}
   <div class="wrap hero__inner">
     <img class="hero__photo" src="{{ '/images/headshot_Zhuoli_2025.jpg' | relative_url }}" alt="Portrait of Zhuoli Yin" width="440" height="550">
@@ -30,13 +36,6 @@ redirect_from:
     </div>
   </div>
 </section>
-
-<div class="skyline" aria-hidden="true">
-  <picture>
-    <source srcset="{{ '/images/skyline-columbia-dark.webp' | relative_url }}" media="(prefers-color-scheme: dark)">
-    <img src="{{ '/images/skyline-columbia.webp' | relative_url }}" alt="" width="2400" height="460" decoding="async">
-  </picture>
-</div>
 
 <div class="wrap">
   <aside class="notice" aria-label="Recruiting">

@@ -142,12 +142,21 @@ figcaption { margin-top: 0.75rem; color: var(--muted); font-size: var(--step--1)
 }
 
 /* ---------- Hero (home) ---------- */
-.hero { position: relative; overflow: hidden; border-bottom: 1px solid var(--hairline); }
+/* The watercolor Columbia skyline sits behind the top of the hero and dissolves into
+   the page before the portrait and bio begin. --skyline-inset is how far the content
+   starts below the top edge: about 44% of the skyline's height (1600px * 460/2400). */
+.hero { position: relative; overflow: hidden; border-bottom: 1px solid var(--hairline); --skyline-inset: calc(min(100vw, 1600px) * 0.0845); }
 .hero__inner {
   position: relative; z-index: 1;
   display: grid; grid-template-columns: 220px minmax(0, 1fr); gap: clamp(1.75rem, 4vw, 3.5rem);
   align-items: start;
-  padding-top: clamp(3rem, 8vw, 6rem); padding-bottom: clamp(3rem, 7vw, 5rem);
+  padding-top: var(--skyline-inset); padding-bottom: clamp(3rem, 7vw, 5rem);
+}
+.skyline { position: absolute; left: 0; right: 0; top: 0; z-index: 0; line-height: 0; pointer-events: none; }
+.skyline img { display: block; width: 100%; max-width: 1600px; height: auto; margin: 0 auto; }
+.skyline::after {
+  content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 60%;
+  background: linear-gradient(to bottom, transparent, var(--paper) 82%);
 }
 .hero__photo { width: 220px; aspect-ratio: 4 / 5; object-fit: cover; border-radius: var(--radius); background: var(--hairline); }
 .hero__text { max-width: 44rem; }
@@ -162,7 +171,7 @@ figcaption { margin-top: 0.75rem; color: var(--muted); font-size: var(--step--1)
 .hero__links a:hover { color: var(--garnet); }
 
 .tour {
-  position: absolute; z-index: 0; right: -140px; top: 50%;
+  position: absolute; z-index: 0; right: -140px; top: calc(50% + var(--skyline-inset) / 2); /* centred on the text, below the skyline */
   width: min(620px, 62vw); height: auto; transform: translateY(-50%);
   color: var(--garnet); opacity: 0.15; pointer-events: none;
 }
@@ -176,9 +185,14 @@ figcaption { margin-top: 0.75rem; color: var(--muted); font-size: var(--step--1)
 @keyframes tour-fade { from { opacity: 0; } to { opacity: 1; } }
 
 @media (max-width: 760px) {
+  .hero { --skyline-inset: 96px; }
   .hero__inner { grid-template-columns: 1fr; }
   .hero__photo { width: 150px; }
-  .tour { top: 0; transform: none; width: 520px; right: -200px; opacity: 0.12; }
+  .tour { top: calc(var(--skyline-inset) - 1.5rem); transform: none; width: 520px; right: -200px; opacity: 0.12; }
+}
+@media (max-width: 640px) {
+  /* Narrow screens: keep the skyline a readable band instead of a sliver */
+  .skyline img { min-height: 120px; object-fit: cover; object-position: center bottom; }
 }
 
 /* ---------- Recruiting notice ---------- */
@@ -417,8 +431,4 @@ details.more[open] > summary { margin-bottom: 0.5rem; }
 .research-figure { margin: 2rem 0 0; }
 .research-figure img { width: 100%; border-radius: var(--radius); }
 
-/* Watercolor Columbia skyline between the hero and the rest of the homepage */
-.hero:has(+ .skyline) { border-bottom: 0; }
-.skyline { margin-top: -1px; line-height: 0; }
-.skyline img { display: block; width: 100%; max-width: 1400px; height: auto; margin: 0 auto; }
 @media print { .skyline { display: none; } }
