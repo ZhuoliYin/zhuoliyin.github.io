@@ -362,6 +362,15 @@ details.more[open] > summary { margin-bottom: 0.5rem; }
 .res-section { padding: 2.5rem 0; border-top: 1px solid var(--hairline); }
 .res-section > h2 { margin-bottom: 0.5rem; }
 .res-section > p { max-width: 42em; color: var(--muted); }
+
+/* Field notes in lab resources: longer, dated entries */
+.notes { max-width: 42rem; margin: 1.5rem 0 0; }
+.note { padding: 1.4rem 0 0.6rem; border-top: 1px solid var(--hairline); }
+.note h3 { margin: 0 0 0.2rem; font-family: var(--sans); font-size: var(--step-1); font-weight: 600; letter-spacing: 0; }
+.note__meta { margin: 0 0 0.9rem; color: var(--muted); font-size: var(--step--1); }
+.note p { margin: 0 0 0.8rem; line-height: 1.6; }
+.note ul { margin: 0.2rem 0 0.9rem 1.1rem; padding: 0; }
+.note li { margin: 0 0 0.5rem; line-height: 1.55; }
 .res-list { margin: 1.25rem 0 0; padding: 0; list-style: none; display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 0 2.5rem; max-width: 52rem; }
 .res-list li { margin: 0; padding: 0.9rem 0; border-bottom: 1px solid var(--hairline); }
 .res-list a { font-weight: 500; }
